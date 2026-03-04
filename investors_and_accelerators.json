@@ -1,723 +1,723 @@
 [
   {
-    "name": "Bessemer Venture Partners",
-    "contact_info": "https://www.bvp.com/",
+    "name": "Radical Ventures",
+    "contact_info": "AIFounders@radical.vc",
     "category": "VC",
     "tier": "Tier 1",
-    "notes": "Top-tier multi-stage VC. Roadmap conference for AI. Seed checks $1M-$5M."
+    "notes": "Pre-Seed/Seed AI VC - $1M-$25M checks"
   },
   {
-    "name": "Coatue",
-    "contact_info": "https://www.coatue.com/",
+    "name": "Conviction Partners",
+    "contact_info": "pranav@conviction.com",
     "category": "VC",
     "tier": "Tier 1",
-    "notes": "Crossover fund active in seed-stage AI. Check: $500K-$5M at seed. Data-driven approach."
+    "notes": "Pre-Seed/Seed AI VC - Sarah Guo - $500k-$5M"
   },
   {
-    "name": "Felicis Ventures",
-    "contact_info": "https://www.felicis.com/",
+    "name": "Air Street Capital",
+    "contact_info": "nathan@airstreet.com",
     "category": "VC",
     "tier": "Tier 1",
-    "notes": "Seed to Series B. AI/enterprise focus. Aydin Senkut. Check: $500K-$10M. Backs technical founders."
-  },
-  {
-    "name": "First Round Capital",
-    "contact_info": "https://firstround.com/",
-    "category": "VC",
-    "tier": "Tier 1",
-    "notes": "Premier seed VC. Strong AI portfolio. Check: $500K-$5M. Uber, Square early backer."
-  },
-  {
-    "name": "General Catalyst",
-    "contact_info": "https://www.generalcatalyst.com/",
-    "category": "VC",
-    "tier": "Tier 1",
-    "notes": "Multi-stage VC with strong AI focus. Seed checks $1M-$5M+. Hemant Taneja leads AI thesis."
-  },
-  {
-    "name": "Insight Partners",
-    "contact_info": "https://www.insightpartners.com/",
-    "category": "VC",
-    "tier": "Tier 1",
-    "notes": "Multi-stage VC, increasingly active at seed for AI. Check: $1M-$10M+ at seed."
-  },
-  {
-    "name": "Lux Capital",
-    "contact_info": "https://luxcapital.com/",
-    "category": "VC",
-    "tier": "Tier 1",
-    "notes": "Deep tech and AI-focused VC. Seed to growth. Check: $1M-$25M. Josh Wolfe, Peter Hébert."
+    "notes": "Pre-Seed/Seed AI VC - Nathan Benaich"
   },
   {
     "name": "Sequoia Arc",
     "contact_info": "https://www.sequoiacap.com/arc/",
     "category": "VC",
     "tier": "Tier 1",
-    "notes": "Sequoia's pre-seed/seed program for very early founders. Highly competitive. Check: $1M+."
-  },
-  {
-    "name": "SignalFire",
-    "contact_info": "https://www.signalfire.com/",
-    "category": "VC",
-    "tier": "Tier 1",
-    "notes": "Data-driven VC, strong AI/ML thesis. Seed to Series B. Check: $1M-$10M. Chris Farmer."
+    "notes": "Top-tier accelerator program"
   },
   {
     "name": "a16z Speedrun",
     "contact_info": "https://speedrun.a16z.com/",
     "category": "VC",
     "tier": "Tier 1",
-    "notes": "Andreessen Horowitz rapid pre-seed program. $750K investment. Rolling applications."
+    "notes": "AI accelerator"
   },
   {
-    "name": "Abstract Ventures",
-    "contact_info": "https://www.abstractvc.com/",
+    "name": "General Catalyst",
+    "contact_info": "https://www.generalcatalyst.com/lets-talk",
     "category": "VC",
-    "tier": "Tier 2",
-    "notes": "Pre-seed/Seed VC. Ramtin Naimi. Check: $100K-$500K. Consumer/enterprise."
+    "tier": "Tier 1",
+    "notes": "Seed/Series A AI"
   },
   {
-    "name": "Afore Capital",
-    "contact_info": "https://afore.vc/",
+    "name": "Bessemer Venture Partners",
+    "contact_info": "https://www.bvp.com/contact",
     "category": "VC",
-    "tier": "Tier 2",
-    "notes": "Pre-seed VC. Anil Dash, Gaurav Jain. Check: $1M-$2M. Pre-product/pre-revenue stage."
+    "tier": "Tier 1",
+    "notes": "Seed to growth"
   },
   {
-    "name": "Air Street Capital",
-    "contact_info": "nathan@airstreet.com",
+    "name": "Coatue",
+    "contact_info": "https://www.coatue.com/contact",
     "category": "VC",
-    "tier": "Tier 2",
-    "notes": "AI-focused VC led by Nathan Benaich (State of AI Report author). Pre-seed/Seed. London-based."
+    "tier": "Tier 1",
+    "notes": "Multi-stage"
   },
   {
-    "name": "Amplify Partners",
-    "contact_info": "https://www.amplifypartners.com/",
+    "name": "Insight Partners",
+    "contact_info": "https://www.insightpartners.com/contact/",
     "category": "VC",
-    "tier": "Tier 2",
-    "notes": "Seed-stage VC focused on technical founders. AI/infra. Check: $1M-$3M. Sunil Dhaliwal, Mike Dauber."
+    "tier": "Tier 1",
+    "notes": "Growth/scale AI"
   },
   {
-    "name": "Basis Set Ventures",
-    "contact_info": "https://www.basisset.com/",
+    "name": "SignalFire",
+    "contact_info": "https://signalfire.com/contact/",
     "category": "VC",
-    "tier": "Tier 2",
-    "notes": "AI-focused seed VC. Xiangyao 'XQ' Zhu (GP). Check: $500K-$3M. Enterprise AI focus."
+    "tier": "Tier 1",
+    "notes": "Seed/Series A"
   },
   {
-    "name": "Boldstart Ventures",
-    "contact_info": "https://boldstart.vc/",
+    "name": "Lux Capital",
+    "contact_info": "https://luxcapital.com/contact",
     "category": "VC",
-    "tier": "Tier 2",
-    "notes": "Pre-seed/Seed enterprise VC. Ed Sim. First check in dev tools/AI infra. Check: $500K-$2M. NYC."
+    "tier": "Tier 1",
+    "notes": "Deep tech/AI seed"
   },
   {
-    "name": "Bowery Capital",
-    "contact_info": "https://bowerycap.com/",
+    "name": "Pear VC",
+    "contact_info": "https://www.pear.vc/founders",
     "category": "VC",
-    "tier": "Tier 2",
-    "notes": "Seed-stage B2B VC. Go-to-market support. Check: $500K-$2M. NYC."
+    "tier": "Tier 1",
+    "notes": "Pre-seed/seed"
+  },
+  {
+    "name": "Neo",
+    "contact_info": "https://neo.com/apply",
+    "category": "VC",
+    "tier": "Tier 1",
+    "notes": "Ali Partovi, seed AI"
+  },
+  {
+    "name": "South Park Commons",
+    "contact_info": "https://www.southparkcommons.com/apply",
+    "category": "VC",
+    "tier": "Tier 1",
+    "notes": "Community/fund"
   },
   {
     "name": "BoxGroup",
-    "contact_info": "https://www.boxgroup.com/",
+    "contact_info": "https://www.boxgroup.com/contact",
     "category": "VC",
-    "tier": "Tier 2",
-    "notes": "Pre-seed/Seed VC in NYC. David Tisch, Adam Rothenberg. Check: $250K-$1M."
-  },
-  {
-    "name": "Collaborative Fund",
-    "contact_info": "https://www.collaborativefund.com/",
-    "category": "VC",
-    "tier": "Tier 2",
-    "notes": "Seed/early-stage VC. AI, climate, health focus. Craig Shapiro. Check: $500K-$3M."
-  },
-  {
-    "name": "Conviction Partners",
-    "contact_info": "pranav@conviction.com",
-    "category": "VC",
-    "tier": "Tier 2",
-    "notes": "Pre-seed/Seed AI VC founded by Sarah Guo (ex-Greylock). Check: $500K-$5M."
-  },
-  {
-    "name": "Costanoa Ventures",
-    "contact_info": "https://www.costanoavc.com/",
-    "category": "VC",
-    "tier": "Tier 2",
-    "notes": "Seed-stage enterprise/AI VC. Greg Sands. Check: $500K-$3M. B2B/data infrastructure."
-  },
-  {
-    "name": "Floodgate",
-    "contact_info": "https://floodgate.com/",
-    "category": "VC",
-    "tier": "Tier 2",
-    "notes": "Seed VC. Mike Maples Jr, Ann Miura-Ko. Thunder lizard thesis. Check: $500K-$3M."
-  },
-  {
-    "name": "Flybridge Capital",
-    "contact_info": "https://www.flybridge.com/",
-    "category": "VC",
-    "tier": "Tier 2",
-    "notes": "Seed/Series A VC. AI, SaaS. Jesse Middleton. Check: $500K-$3M. Boston/NYC."
-  },
-  {
-    "name": "Gradient Ventures (Google)",
-    "contact_info": "https://www.gradient.com/",
-    "category": "VC",
-    "tier": "Tier 2",
-    "notes": "Google's AI-focused venture fund. Seed to Series A. Check: $1M-$5M. Google resources access."
-  },
-  {
-    "name": "Greycroft",
-    "contact_info": "https://www.greycroft.com/",
-    "category": "VC",
-    "tier": "Tier 2",
-    "notes": "Early-stage VC, AI/consumer focus. Check: $500K-$5M. NYC/LA. Dana Settle, Ian Sigalow."
-  },
-  {
-    "name": "Homebrew",
-    "contact_info": "https://homebrew.co/",
-    "category": "VC",
-    "tier": "Tier 2",
-    "notes": "Seed VC. Hunter Walk, Satya Patel. Bottom-up economy thesis. Check: $500K-$2M."
+    "tier": "Tier 1",
+    "notes": "Pre-seed NYC"
   },
   {
     "name": "Initialized Capital",
     "contact_info": "https://initialized.com/",
     "category": "VC",
-    "tier": "Tier 2",
-    "notes": "Pre-seed/Seed VC co-founded by Garry Tan (now YC President). Check: $500K-$2M."
+    "tier": "Tier 1",
+    "notes": "Pre-seed/seed (Garry Tan)"
+  },
+  {
+    "name": "Precursor Ventures",
+    "contact_info": "https://precursorvc.com/startup/",
+    "category": "VC",
+    "tier": "Tier 1",
+    "notes": "Pre-seed"
+  },
+  {
+    "name": "Afore Capital",
+    "contact_info": "https://afore.vc/submit-your-startup",
+    "category": "VC",
+    "tier": "Tier 1",
+    "notes": "Pre-seed"
   },
   {
     "name": "Kindred Ventures",
     "contact_info": "https://kindredventures.com/",
     "category": "VC",
     "tier": "Tier 2",
-    "notes": "Pre-seed/Seed VC led by Steve Jang and Kanyi Maqubela. Check: $250K-$2M."
+    "notes": "Steve Jang, seed"
   },
   {
-    "name": "Madrona Ventures",
-    "contact_info": "https://www.madrona.com/",
+    "name": "Abstract Ventures",
+    "contact_info": "https://www.abstractvc.com/",
     "category": "VC",
     "tier": "Tier 2",
-    "notes": "Seattle-based VC. Strong AI/ML thesis. Seed to Series B. Check: $1M-$10M. Close to MSFT/AMZN."
+    "notes": "Seed AI"
   },
   {
-    "name": "Pear VC",
-    "contact_info": "https://pear.vc/",
+    "name": "Costanoa Ventures",
+    "contact_info": "https://www.costanoavc.com/pitch-us",
     "category": "VC",
     "tier": "Tier 2",
-    "notes": "Pre-seed/Seed VC. Pejman Nozad, Mar Hershenson. Check: $250K-$2M. Also runs Pear Garage accelerator."
+    "notes": "Seed/Series A"
   },
   {
     "name": "Point Nine Capital",
-    "contact_info": "https://www.pointnine.com/",
+    "contact_info": "https://www.pointnine.com/apply",
     "category": "VC",
     "tier": "Tier 2",
-    "notes": "European seed VC. SaaS/B2B/AI focus. Christoph Janz. Check: $500K-$2M. Berlin-based."
+    "notes": "SaaS/AI seed"
   },
   {
-    "name": "Precursor Ventures",
-    "contact_info": "https://precursorvc.com/",
+    "name": "Amplify Partners",
+    "contact_info": "https://www.amplifypartners.com/contact",
     "category": "VC",
     "tier": "Tier 2",
-    "notes": "Pre-seed VC. Charles Hudson (GP). Check: $100K-$500K. Diversity-focused, founder-friendly."
+    "notes": "Dev tools/infra seed"
   },
   {
-    "name": "Radical Ventures",
-    "contact_info": "AIFounders@radical.vc",
+    "name": "Basis Set Ventures",
+    "contact_info": "https://basisset.ventures/",
     "category": "VC",
     "tier": "Tier 2",
-    "notes": "AI-only VC based in Toronto. Pre-seed/Seed focus. Check: $1M-$25M. Deep AI expertise."
+    "notes": "AI/ML seed"
   },
   {
-    "name": "Root Ventures",
-    "contact_info": "https://www.rootvc.com/",
+    "name": "Greycroft",
+    "contact_info": "https://www.greycroft.com/contact/",
     "category": "VC",
     "tier": "Tier 2",
-    "notes": "Seed-stage VC for technical founders. Hardware + AI. Check: $500K-$3M. Avidan Ross, Chrissy Meyer."
+    "notes": "Seed to growth"
   },
   {
-    "name": "Seedcamp",
-    "contact_info": "https://seedcamp.com/",
+    "name": "Work-Bench",
+    "contact_info": "https://www.work-bench.com/pitch",
     "category": "VC",
     "tier": "Tier 2",
-    "notes": "Europe's leading pre-seed/seed fund. Check: $100K-$500K. Strong AI portfolio. London-based."
+    "notes": "Enterprise/AI NYC seed"
+  },
+  {
+    "name": "Bowery Capital",
+    "contact_info": "https://bowerycap.com/contact",
+    "category": "VC",
+    "tier": "Tier 2",
+    "notes": "B2B SaaS seed"
+  },
+  {
+    "name": "Notation Capital",
+    "contact_info": "https://notation.vc/pitch",
+    "category": "VC",
+    "tier": "Tier 2",
+    "notes": "Pre-seed NYC"
+  },
+  {
+    "name": "Uncork Capital",
+    "contact_info": "https://uncork.vc/contact",
+    "category": "VC",
+    "tier": "Tier 2",
+    "notes": "Seed"
+  },
+  {
+    "name": "Susa Ventures",
+    "contact_info": "https://susaventures.com/",
+    "category": "VC",
+    "tier": "Tier 2",
+    "notes": "Seed SF"
+  },
+  {
+    "name": "Fika Ventures",
+    "contact_info": "https://fika.vc/",
+    "category": "VC",
+    "tier": "Tier 2",
+    "notes": "Seed LA"
   },
   {
     "name": "Soma Capital",
     "contact_info": "https://somacap.com/",
     "category": "VC",
     "tier": "Tier 2",
-    "notes": "Pre-seed/Seed VC. Invests alongside YC and other accelerators. Check: $100K-$500K."
+    "notes": "Seed"
   },
   {
-    "name": "Susa Ventures",
-    "contact_info": "https://www.susaventures.com/",
+    "name": "Wischoff Ventures",
+    "contact_info": "https://www.wischoff.com/",
     "category": "VC",
     "tier": "Tier 2",
-    "notes": "Seed-stage VC, data/AI focus. Leo Polovets, Seth Berman. Check: $500K-$2M."
+    "notes": "Pre-seed"
   },
   {
-    "name": "Uncork Capital",
-    "contact_info": "https://uncorkcapital.com/",
+    "name": "Focal VC",
+    "contact_info": "https://www.focal.vc/",
     "category": "VC",
     "tier": "Tier 2",
-    "notes": "Seed-stage VC (fmr SoftTech VC). Jeff Clavier. Check: $500K-$3M. 200+ seed investments."
+    "notes": "Pre-seed/seed AI"
   },
   {
-    "name": "Work-Bench",
-    "contact_info": "https://www.work-bench.com/",
+    "name": "Root Ventures",
+    "contact_info": "https://root.vc/",
     "category": "VC",
     "tier": "Tier 2",
-    "notes": "Seed-stage enterprise VC in NYC. Jessica Lin, Jonathan Lehr. Check: $1M-$3M."
+    "notes": "Technical founders seed"
   },
   {
-    "name": "1517 Fund",
-    "contact_info": "https://www.1517fund.com/",
+    "name": "Ubiquity Ventures",
+    "contact_info": "https://ubiquity.vc/",
     "category": "VC",
-    "tier": "Tier 3",
-    "notes": "Pre-seed fund for young founders / dropouts. Danielle Strachman, Mike Gibson. Check: $100K-$500K."
-  },
-  {
-    "name": "Alumni Ventures",
-    "contact_info": "https://www.av.vc/",
-    "category": "VC",
-    "tier": "Tier 3",
-    "notes": "Network-driven VC with alumni-based funds. Seed/Series A. Check: $250K-$1M."
-  },
-  {
-    "name": "Amino Capital",
-    "contact_info": "https://aminocapital.com/",
-    "category": "VC",
-    "tier": "Tier 3",
-    "notes": "Seed VC with AI/ML focus. Bay Area. Check: $100K-$500K. Strong AI thesis."
+    "tier": "Tier 2",
+    "notes": "Micro-SaaS seed"
   },
   {
     "name": "Betaworks Ventures",
-    "contact_info": "https://www.betaworks.com/ventures",
+    "contact_info": "https://betaworks.com/",
+    "category": "VC",
+    "tier": "Tier 2",
+    "notes": "NYC pre-seed"
+  },
+  {
+    "name": "Collaborative Fund",
+    "contact_info": "https://www.collaborativefund.com/",
+    "category": "VC",
+    "tier": "Tier 2",
+    "notes": "Impact/tech seed"
+  },
+  {
+    "name": "Alumni Ventures",
+    "contact_info": "https://av.vc/pitch",
+    "category": "VC",
+    "tier": "Tier 2",
+    "notes": "Seed/Series A"
+  },
+  {
+    "name": "Gutter Capital",
+    "contact_info": "https://guttercap.com/",
+    "category": "VC",
+    "tier": "Tier 2",
+    "notes": "Pre-seed NYC"
+  },
+  {
+    "name": "Rebel Fund",
+    "contact_info": "https://www.rebelfund.vc/",
+    "category": "VC",
+    "tier": "Tier 2",
+    "notes": "YC-focused seed"
+  },
+  {
+    "name": "Pioneer Fund",
+    "contact_info": "https://pioneer.app/",
+    "category": "VC",
+    "tier": "Tier 2",
+    "notes": "Remote founders pre-seed"
+  },
+  {
+    "name": "Amino Capital",
+    "contact_info": "https://www.aminocapital.com/",
+    "category": "VC",
+    "tier": "Tier 2",
+    "notes": "AI/ML seed Palo Alto"
+  },
+  {
+    "name": "Tau Ventures",
+    "contact_info": "https://www.tauventures.com/",
+    "category": "VC",
+    "tier": "Tier 2",
+    "notes": "AI seed Silicon Valley"
+  },
+  {
+    "name": "Seedcamp",
+    "contact_info": "https://seedcamp.com/apply/",
+    "category": "VC",
+    "tier": "Tier 2",
+    "notes": "European seed"
+  },
+  {
+    "name": "Entrepreneur First",
+    "contact_info": "https://www.joinef.com/apply/",
+    "category": "VC",
+    "tier": "Tier 2",
+    "notes": "Pre-team/idea stage"
+  },
+  {
+    "name": "Transpose Platform",
+    "contact_info": "https://transpose.vc/",
     "category": "VC",
     "tier": "Tier 3",
-    "notes": "Seed VC and startup studio in NYC. John Borthwick. AI/media. Check: $200K-$1M."
+    "notes": "Deep tech seed"
   },
   {
     "name": "Cortical Ventures",
     "contact_info": "https://cortical.vc/",
     "category": "VC",
     "tier": "Tier 3",
-    "notes": "Seed VC focused on AI and computational biology. Check: $250K-$1M."
+    "notes": "Neuroscience/AI"
   },
   {
-    "name": "Fika Ventures",
-    "contact_info": "https://www.fikaventures.com/",
+    "name": "Supercell VC",
+    "contact_info": "https://supercell.com/en/game-funding/",
     "category": "VC",
     "tier": "Tier 3",
-    "notes": "Seed VC in LA. Data/AI/enterprise focus. TX Zhuo, Eva Ho. Check: $500K-$2M."
+    "notes": "Gaming/AI"
   },
   {
-    "name": "Focal VC",
-    "contact_info": "https://www.focal.vc/",
+    "name": "1517 Fund",
+    "contact_info": "https://www.1517fund.com/",
     "category": "VC",
     "tier": "Tier 3",
-    "notes": "Pre-seed/Seed VC. AI/developer tools focus. Check: $100K-$500K."
-  },
-  {
-    "name": "Gutter Capital",
-    "contact_info": "https://www.guttercapital.com/",
-    "category": "VC",
-    "tier": "Tier 3",
-    "notes": "Pre-seed VC. Tyler Tringas. Check: $50K-$250K. Calm companies and AI."
-  },
-  {
-    "name": "Notation Capital",
-    "contact_info": "https://notation.vc/",
-    "category": "VC",
-    "tier": "Tier 3",
-    "notes": "Pre-seed VC in NYC. Alex Lines, Nicholas Chirls. Check: $250K-$1M. First check investors."
-  },
-  {
-    "name": "Pioneer Fund",
-    "contact_info": "https://pioneerfund.vc/",
-    "category": "VC",
-    "tier": "Tier 3",
-    "notes": "Pre-seed VC run by YC alumni. Invests in YC-backed companies. Check: $100K-$500K."
+    "notes": "Young founders"
   },
   {
     "name": "Rarebreed Ventures",
-    "contact_info": "https://www.rarebreed.vc/",
+    "contact_info": "https://rarebreedventures.com/",
     "category": "VC",
     "tier": "Tier 3",
-    "notes": "Pre-seed VC. Mac Conwell. Check: $100K-$500K. Inclusive, underrepresented founders."
+    "notes": "Underrepresented founders"
   },
   {
-    "name": "Rebel Fund",
-    "contact_info": "https://www.rebelfund.vc/",
+    "name": "Gaingels",
+    "contact_info": "https://gaingels.com/",
     "category": "VC",
     "tier": "Tier 3",
-    "notes": "Pre-seed/Seed VC. Backs YC companies algorithmically. Check: $100K-$250K."
-  },
-  {
-    "name": "Samsung Next",
-    "contact_info": "https://www.samsungnext.com/",
-    "category": "VC",
-    "tier": "Tier 3",
-    "notes": "Samsung's venture arm. AI, infrastructure. Seed to Series B. Check: $500K-$5M."
-  },
-  {
-    "name": "Tau Ventures",
-    "contact_info": "https://www.tauventures.com/",
-    "category": "VC",
-    "tier": "Tier 3",
-    "notes": "Seed VC focused on AI and applied ML. Amit Garg. Check: $100K-$500K."
-  },
-  {
-    "name": "Transpose Platform",
-    "contact_info": "https://www.transposeplatform.com/",
-    "category": "VC",
-    "tier": "Tier 3",
-    "notes": "Pre-seed/Seed VC. Emerging fund. Check: $100K-$500K."
-  },
-  {
-    "name": "Ubiquity Ventures",
-    "contact_info": "https://www.ubiquity.vc/",
-    "category": "VC",
-    "tier": "Tier 3",
-    "notes": "Seed VC for 'software beyond the screen.' AI + hardware. Sunil Nagaraj. Check: $500K-$2M."
-  },
-  {
-    "name": "Wischoff Ventures",
-    "contact_info": "https://www.wischoff.com/",
-    "category": "VC",
-    "tier": "Tier 3",
-    "notes": "Solo GP pre-seed VC. AI/enterprise. Rick Zullo. Check: $100K-$250K."
-  },
-  {
-    "name": "Alexis Ohanian (776)",
-    "contact_info": "https://www.sevensevensix.com/",
-    "category": "Angel",
-    "tier": "Tier 1",
-    "notes": "Reddit co-founder. Fund 776 invests seed-stage. AI/consumer. Check: $500K-$5M."
-  },
-  {
-    "name": "Balaji Srinivasan",
-    "contact_info": "https://balajis.com/",
-    "category": "Angel",
-    "tier": "Tier 1",
-    "notes": "Former a16z GP, former Coinbase CTO. Active angel in AI/crypto. Check: $100K-$500K."
-  },
-  {
-    "name": "Cyan Banister",
-    "contact_info": "https://www.linkedin.com/in/cyan-banister/",
-    "category": "Angel",
-    "tier": "Tier 1",
-    "notes": "Former Founders Fund partner. Active angel in AI. Early SpaceX, Uber investor. Check: $50K-$500K."
+    "notes": "LGBTQ+ inclusive syndicate"
   },
   {
     "name": "Elad Gil",
     "contact_info": "https://eladgil.com/",
     "category": "Angel",
     "tier": "Tier 1",
-    "notes": "Prolific angel, author of High Growth Handbook. Invests in AI/infra. Check: $100K-$1M+."
-  },
-  {
-    "name": "Gokul Rajaram",
-    "contact_info": "https://www.linkedin.com/in/gokulrajaram/",
-    "category": "Angel",
-    "tier": "Tier 1",
-    "notes": "Board partner at Coinbase. Prolific angel (200+ investments). Ex-Google, Square. Check: $25K-$250K."
+    "notes": "Solo angel, AI infra, $100k-$1M checks"
   },
   {
     "name": "Naval Ravikant",
-    "contact_info": "https://www.angellist.com/naval",
+    "contact_info": "https://angel.co/p/naval",
     "category": "Angel",
     "tier": "Tier 1",
-    "notes": "AngelList co-founder. One of the most influential angels in tech. Check: $100K-$500K."
+    "notes": "AngelList founder, early-stage"
   },
   {
-    "name": "Edward Lando",
-    "contact_info": "https://www.linkedin.com/in/edwardlando/",
+    "name": "Gokul Rajaram",
+    "contact_info": "https://twitter.com/gokulr",
     "category": "Angel",
-    "tier": "Tier 2",
-    "notes": "Active angel in AI startups. Check: $25K-$100K."
+    "tier": "Tier 1",
+    "notes": "Ex-DoorDash/Google, AI/consumer"
+  },
+  {
+    "name": "Cyan Banister",
+    "contact_info": "https://twitter.com/CyanRanister",
+    "category": "Angel",
+    "tier": "Tier 1",
+    "notes": "Early OpenAI backer"
   },
   {
     "name": "Greg Isenberg",
-    "contact_info": "https://www.gregisenberg.com/",
+    "contact_info": "https://gregisenberg.com/",
     "category": "Angel",
-    "tier": "Tier 2",
-    "notes": "Late Checkout co-founder. Active angel in AI/community. Check: $25K-$100K."
+    "tier": "Tier 1",
+    "notes": "Community/AI products"
   },
   {
-    "name": "Ian Hogarth",
-    "contact_info": "https://www.linkedin.com/in/ianhogarth/",
+    "name": "Alexis Ohanian",
+    "contact_info": "https://sevensevensix.com/",
     "category": "Angel",
-    "tier": "Tier 2",
-    "notes": "Chair of UK AI Safety Institute. Co-author of State of AI Report. Active AI angel. Check: $25K-$250K."
+    "tier": "Tier 1",
+    "notes": "776 fund, consumer/AI"
   },
   {
-    "name": "Lachy Groom",
-    "contact_info": "https://www.lachygroom.com/",
+    "name": "Jason Calacanis",
+    "contact_info": "https://launch.co/",
     "category": "Angel",
-    "tier": "Tier 2",
-    "notes": "Stripe alumni. Solo capitalist investing at seed. AI/fintech. Check: $250K-$5M."
+    "tier": "Tier 1",
+    "notes": "LAUNCH fund/syndicate"
+  },
+  {
+    "name": "Harry Stebbings",
+    "contact_info": "https://20vc.com/",
+    "category": "Angel",
+    "tier": "Tier 1",
+    "notes": "20VC, pre-seed/seed"
   },
   {
     "name": "Ryan Hoover",
-    "contact_info": "https://www.linkedin.com/in/ryanrhoover/",
+    "contact_info": "https://angel.co/p/rrhoover",
     "category": "Angel",
     "tier": "Tier 2",
-    "notes": "Product Hunt founder, Weekend Fund GP. Consumer/AI focus. Check: $25K-$100K."
+    "notes": "Product Hunt founder"
   },
   {
-    "name": "AngelList Syndicates",
-    "contact_info": "https://www.angellist.com/syndicates",
-    "category": "Angel Syndicate",
-    "tier": "Tier 1",
-    "notes": "Platform for angel syndicates. Multiple AI-focused leads. Raise $100K-$1M+ per deal."
-  },
-  {
-    "name": "Jason Calacanis (LAUNCH)",
-    "contact_info": "https://www.launch.co/",
-    "category": "Angel Syndicate",
-    "tier": "Tier 1",
-    "notes": "LAUNCH accelerator + syndicate. Early Uber investor. Check: $100K-$1M. Also runs This Week in Startups."
-  },
-  {
-    "name": "20VC (Harry Stebbings)",
-    "contact_info": "https://www.20vc.com/",
-    "category": "Angel Syndicate",
+    "name": "Balaji Srinivasan",
+    "contact_info": "https://balajis.com/",
+    "category": "Angel",
     "tier": "Tier 2",
-    "notes": "20 Minute VC podcast host turned VC. Seed/Series A. AI focus. Check: $250K-$2M."
+    "notes": "Frontier AI + crypto"
+  },
+  {
+    "name": "Ian Hogarth",
+    "contact_info": "https://twitter.com/soundboy",
+    "category": "Angel",
+    "tier": "Tier 2",
+    "notes": "AI safety/foundation models"
+  },
+  {
+    "name": "Edward Lando",
+    "contact_info": "https://angel.co/p/edlando",
+    "category": "Angel",
+    "tier": "Tier 2",
+    "notes": "500+ investments"
+  },
+  {
+    "name": "Ben Tossell",
+    "contact_info": "https://twitter.com/bentossell",
+    "category": "Angel",
+    "tier": "Tier 2",
+    "notes": "No-code/AI tools"
+  },
+  {
+    "name": "Lachy Groom",
+    "contact_info": "https://lachygroom.com/",
+    "category": "Angel",
+    "tier": "Tier 2",
+    "notes": "Stripe alumni, fintech/AI"
   },
   {
     "name": "AI Angels Fund",
-    "contact_info": "https://aiangels.fund/",
+    "contact_info": "https://www.aiangels.fund/",
     "category": "Angel Syndicate",
-    "tier": "Tier 2",
-    "notes": "AI-focused angel syndicate. Group of AI operators investing together."
-  },
-  {
-    "name": "Hustle Fund",
-    "contact_info": "https://www.hustlefund.vc/",
-    "category": "Angel Syndicate",
-    "tier": "Tier 2",
-    "notes": "Pre-seed VC + Angel Squad syndicate. Elizabeth Yin, Eric Bahn. Check: $25K-$500K. Accessible."
-  },
-  {
-    "name": "Bezos Expeditions",
-    "contact_info": "https://www.bezosexpeditions.com/",
-    "category": "Family Office",
     "tier": "Tier 1",
-    "notes": "Jeff Bezos's personal investment fund. AI/space/health. Very selective. Check: $1M+."
+    "notes": "AI-focused syndicate"
+  },
+  {
+    "name": "AngelList Syndicates",
+    "contact_info": "https://angellist.com/syndicates",
+    "category": "Angel Syndicate",
+    "tier": "Tier 1",
+    "notes": "Platform for AI syndicates"
+  },
+  {
+    "name": "Hustle Fund Angel Squad",
+    "contact_info": "https://www.hustlefund.vc/squad",
+    "category": "Angel Syndicate",
+    "tier": "Tier 1",
+    "notes": "2k+ angels co-investing"
+  },
+  {
+    "name": "Republic",
+    "contact_info": "https://republic.com/",
+    "category": "Angel Syndicate",
+    "tier": "Tier 2",
+    "notes": "Equity crowdfunding + angels"
   },
   {
     "name": "Emerson Collective",
     "contact_info": "https://www.emersoncollective.com/",
     "category": "Family Office",
     "tier": "Tier 1",
-    "notes": "Laurene Powell Jobs' org. Tech/education/social impact. Investments and grants."
-  },
-  {
-    "name": "Schmidt Futures",
-    "contact_info": "https://www.schmidtfutures.org/",
-    "category": "Family Office",
-    "tier": "Tier 1",
-    "notes": "Eric Schmidt's philanthropic/investment org. AI and science focus. Grants and investments."
-  },
-  {
-    "name": "Bedrock Capital",
-    "contact_info": "https://www.bedrockcap.com/",
-    "category": "Family Office",
-    "tier": "Tier 2",
-    "notes": "Geoff Lewis, Eric Paley. Contrarian seed/Series A fund. Check: $500K-$5M."
-  },
-  {
-    "name": "Chapter One",
-    "contact_info": "https://chapterone.com/",
-    "category": "Family Office",
-    "tier": "Tier 2",
-    "notes": "Jeff Morris Jr. Pre-seed/Seed fund. Consumer/AI. Check: $100K-$500K."
-  },
-  {
-    "name": "Gaingels",
-    "contact_info": "https://gaingels.com/",
-    "category": "Family Office",
-    "tier": "Tier 2",
-    "notes": "LGBTQ+ and ally investor network. Syndicate model. 900+ members. Check: $100K-$500K."
+    "notes": "Laurene Powell Jobs, impact/AI"
   },
   {
     "name": "Obvious Ventures",
     "contact_info": "https://obvious.com/",
     "category": "Family Office",
+    "tier": "Tier 1",
+    "notes": "World positive tech/AI"
+  },
+  {
+    "name": "Schmidt Futures",
+    "contact_info": "https://www.schmidtfutures.com/",
+    "category": "Family Office",
+    "tier": "Tier 1",
+    "notes": "Eric Schmidt, AI/science"
+  },
+  {
+    "name": "Bezos Expeditions",
+    "contact_info": "https://www.bezosexpeditions.com/",
+    "category": "Family Office",
+    "tier": "Tier 1",
+    "notes": "Jeff Bezos personal"
+  },
+  {
+    "name": "Bedrock Capital",
+    "contact_info": "https://bedrockcap.com/",
+    "category": "Family Office",
     "tier": "Tier 2",
-    "notes": "Ev Williams (Twitter co-founder) VC. World-positive companies. Seed to Series B. Check: $500K-$5M."
+    "notes": "Narrative-driven seed"
   },
   {
-    "name": "Antler",
-    "contact_info": "https://www.antler.co/",
-    "category": "Accelerator",
-    "tier": "Tier 1",
-    "notes": "Global day-zero investor. Join pre-team. $100K-$250K. AI-focused cohorts. 27 cities."
+    "name": "Chapter One Ventures",
+    "contact_info": "https://chapterone.com/",
+    "category": "Family Office",
+    "tier": "Tier 2",
+    "notes": "Consumer/AI seed"
   },
   {
-    "name": "Entrepreneur First (EF)",
-    "contact_info": "https://www.joinef.com/",
-    "category": "Accelerator",
-    "tier": "Tier 1",
-    "notes": "Talent-first accelerator. Join pre-team/pre-idea. Strong AI track. London, SF, Singapore."
+    "name": "Mulago Foundation",
+    "contact_info": "https://mulago.org/",
+    "category": "Family Office",
+    "tier": "Tier 2",
+    "notes": "Impact tech"
   },
   {
-    "name": "Neo",
-    "contact_info": "https://neo.com/",
+    "name": "Y Combinator",
+    "contact_info": "https://apply.ycombinator.com/",
     "category": "Accelerator",
     "tier": "Tier 1",
-    "notes": "Ali Partovi's community + fund. Connects founders with tech leaders. Pre-seed to Seed."
-  },
-  {
-    "name": "South Park Commons (SPC)",
-    "contact_info": "https://www.southparkcommons.com/",
-    "category": "Accelerator",
-    "tier": "Tier 1",
-    "notes": "Pre-company community for builders between things. AI-heavy. Stipend + community. SF-based."
-  },
-  {
-    "name": "Techstars",
-    "contact_info": "https://www.techstars.com/accelerators",
-    "category": "Accelerator",
-    "tier": "Tier 1",
-    "notes": "Global accelerator network, AI-specific programs. $120K investment. 3-month programs."
-  },
-  {
-    "name": "Y Combinator (YC)",
-    "contact_info": "https://www.ycombinator.com/apply",
-    "category": "Accelerator",
-    "tier": "Tier 1",
-    "notes": "Top accelerator. $500K investment. Batch-based (W/S). Strong AI cohorts. 7% equity."
+    "notes": "Top accelerator, $500k for 7%"
   },
   {
     "name": "a16z Speedrun (Accelerator)",
     "contact_info": "https://speedrun.a16z.com/",
     "category": "Accelerator",
     "tier": "Tier 1",
-    "notes": "a16z's rapid pre-seed program. $750K. For technical founders pre-product. Rolling."
+    "notes": "AI startup accelerator"
   },
   {
-    "name": "AWS Activate",
-    "contact_info": "https://aws.amazon.com/activate/",
+    "name": "Antler",
+    "contact_info": "https://www.antler.co/apply",
     "category": "Accelerator",
-    "tier": "Tier 2",
-    "notes": "Up to $100K AWS credits, technical support. No equity. Open to all startups."
+    "tier": "Tier 1",
+    "notes": "Global early-stage"
   },
   {
-    "name": "Alchemist Accelerator",
-    "contact_info": "https://www.alchemistaccelerator.com/",
+    "name": "Techstars",
+    "contact_info": "https://www.techstars.com/accelerators",
     "category": "Accelerator",
-    "tier": "Tier 2",
-    "notes": "Enterprise/B2B accelerator. 6-month program. Strong enterprise AI focus. Ravi Belani."
+    "tier": "Tier 1",
+    "notes": "Multiple tracks"
   },
   {
-    "name": "Berkeley SkyDeck",
-    "contact_info": "https://skydeck.berkeley.edu/",
+    "name": "Google for Startups Accelerator",
+    "contact_info": "https://cloud.google.com/startup",
     "category": "Accelerator",
-    "tier": "Tier 2",
-    "notes": "UC Berkeley accelerator. HotDesk (no equity) and Pad-13 (equity) tracks. AI-strong cohorts."
+    "tier": "Tier 1",
+    "notes": "AI/Cloud focus"
   },
   {
-    "name": "Founders Factory",
-    "contact_info": "https://foundersfactory.com/",
-    "category": "Accelerator",
-    "tier": "Tier 2",
-    "notes": "London accelerator and studio. Corporate-backed AI programs. 6-month accelerator."
-  },
-  {
-    "name": "Google for Startups Accelerator: AI",
-    "contact_info": "https://startup.google.com/accelerators/",
-    "category": "Accelerator",
-    "tier": "Tier 2",
-    "notes": "Google Cloud credits, mentorship, no equity taken. AI-first cohort. Equity-free."
-  },
-  {
-    "name": "HAX Accelerator",
-    "contact_info": "https://hax.co/",
-    "category": "Accelerator",
-    "tier": "Tier 2",
-    "notes": "SOSV-backed accelerator for hardware + AI. Shenzhen/Newark. $250K. Deep tech focus."
-  },
-  {
-    "name": "Intel Ignite",
-    "contact_info": "https://intelignite.com/",
-    "category": "Accelerator",
-    "tier": "Tier 2",
-    "notes": "Intel-backed accelerator for deep tech/AI. No equity. Mentorship + Intel resources."
-  },
-  {
-    "name": "Microsoft for Startups (Founders Hub)",
+    "name": "Microsoft for Startups",
     "contact_info": "https://www.microsoft.com/en-us/startups",
     "category": "Accelerator",
-    "tier": "Tier 2",
-    "notes": "Up to $150K Azure credits, OpenAI API access, mentorship. No equity. Open application."
+    "tier": "Tier 1",
+    "notes": "Azure credits + support"
   },
   {
     "name": "NVIDIA Inception",
     "contact_info": "https://www.nvidia.com/en-us/startups/",
     "category": "Accelerator",
+    "tier": "Tier 1",
+    "notes": "AI/GPU startups"
+  },
+  {
+    "name": "AWS Activate",
+    "contact_info": "https://aws.amazon.com/activate/",
+    "category": "Accelerator",
+    "tier": "Tier 1",
+    "notes": "AWS credits + support"
+  },
+  {
+    "name": "South Park Commons (Accelerator)",
+    "contact_info": "https://www.southparkcommons.com/apply",
+    "category": "Accelerator",
     "tier": "Tier 2",
-    "notes": "Free program for AI startups. GPU discounts, DGX Cloud credits, co-marketing. No equity."
+    "notes": "Technical exploration"
+  },
+  {
+    "name": "Neo (Accelerator)",
+    "contact_info": "https://neo.com/apply",
+    "category": "Accelerator",
+    "tier": "Tier 2",
+    "notes": "Ali Partovi, AI focus"
+  },
+  {
+    "name": "Pear VC Garage",
+    "contact_info": "https://www.pear.vc/garage",
+    "category": "Accelerator",
+    "tier": "Tier 2",
+    "notes": "Pre-seed program"
   },
   {
     "name": "On Deck",
     "contact_info": "https://www.beondeck.com/",
     "category": "Accelerator",
     "tier": "Tier 2",
-    "notes": "Fellowship and community for founders. On Deck AI track. Network-driven. Rolling admission."
-  },
-  {
-    "name": "Pear VC Garage",
-    "contact_info": "https://pear.vc/garage/",
-    "category": "Accelerator",
-    "tier": "Tier 2",
-    "notes": "Pear VC's fellowship for student/new-grad founders. Pre-seed. AI focus. Palo Alto."
+    "notes": "Fellowship + funding"
   },
   {
     "name": "Pioneer",
     "contact_info": "https://pioneer.app/",
     "category": "Accelerator",
     "tier": "Tier 2",
-    "notes": "Fully remote accelerator/tournament for global founders. Daniel Gross. AI focus. Rolling."
+    "notes": "Remote founders tournament"
   },
   {
-    "name": "Plug and Play Tech Center",
-    "contact_info": "https://www.plugandplaytechcenter.com/",
+    "name": "Alchemist Accelerator",
+    "contact_info": "https://alchemistaccelerator.com/apply",
     "category": "Accelerator",
     "tier": "Tier 2",
-    "notes": "Global accelerator in Sunnyvale. AI/fintech/health verticals. Corporate connections. Batch-based."
+    "notes": "Enterprise/B2B"
   },
   {
-    "name": "Salesforce Ventures (Accelerator)",
-    "contact_info": "https://www.salesforceventures.com/",
+    "name": "Berkeley SkyDeck",
+    "contact_info": "https://skydeck.berkeley.edu/apply/",
     "category": "Accelerator",
     "tier": "Tier 2",
-    "notes": "Corporate VC + accelerator. AI/enterprise focus. Salesforce ecosystem. Check: $250K-$5M."
+    "notes": "University-linked"
   },
   {
-    "name": "Founders Institute",
-    "contact_info": "https://fi.co/",
+    "name": "Entrepreneur First (Accelerator)",
+    "contact_info": "https://www.joinef.com/apply/",
     "category": "Accelerator",
-    "tier": "Tier 3",
-    "notes": "World's largest pre-seed accelerator. 200+ cities. 3.5% equity. Part-time friendly. AI tracks."
+    "tier": "Tier 2",
+    "notes": "Pre-team stage"
+  },
+  {
+    "name": "Founders Factory",
+    "contact_info": "https://foundersfactory.com/apply/",
+    "category": "Accelerator",
+    "tier": "Tier 2",
+    "notes": "Corporate-backed"
+  },
+  {
+    "name": "Intel Ignite",
+    "contact_info": "https://intelignite.com/",
+    "category": "Accelerator",
+    "tier": "Tier 2",
+    "notes": "Deep tech/AI"
+  },
+  {
+    "name": "OSV (Open Source Ventures)",
+    "contact_info": "https://osv.vc/",
+    "category": "Accelerator",
+    "tier": "Tier 2",
+    "notes": "Open source AI"
   },
   {
     "name": "MassChallenge",
-    "contact_info": "https://masschallenge.org/",
+    "contact_info": "https://masschallenge.org/apply/",
     "category": "Accelerator",
     "tier": "Tier 3",
-    "notes": "Zero-equity accelerator. Cash prizes. Boston/international. Impact focus. AI-friendly."
+    "notes": "No-equity accelerator"
+  },
+  {
+    "name": "Plug and Play Tech Center",
+    "contact_info": "https://www.plugandplaytechcenter.com/join/",
+    "category": "Accelerator",
+    "tier": "Tier 3",
+    "notes": "Corporate innovation"
+  },
+  {
+    "name": "HAX Accelerator",
+    "contact_info": "https://hax.co/apply/",
+    "category": "Accelerator",
+    "tier": "Tier 3",
+    "notes": "Hardware/AI"
+  },
+  {
+    "name": "Founders Institute",
+    "contact_info": "https://fi.co/apply",
+    "category": "Accelerator",
+    "tier": "Tier 3",
+    "notes": "Idea-stage global"
+  },
+  {
+    "name": "Salesforce Ventures Incubator",
+    "contact_info": "https://www.salesforceventures.com/",
+    "category": "Accelerator",
+    "tier": "Tier 3",
+    "notes": "CRM/AI ecosystem"
   },
   {
     "name": "Qualcomm Ventures",
     "contact_info": "https://www.qualcommventures.com/",
     "category": "Accelerator",
     "tier": "Tier 3",
-    "notes": "Corporate VC for AI/edge computing/5G startups. Check: $500K-$5M. Strategic value add."
+    "notes": "Mobile/AI/edge"
+  },
+  {
+    "name": "IBM Ventures",
+    "contact_info": "https://www.ibm.com/ventures",
+    "category": "Accelerator",
+    "tier": "Tier 3",
+    "notes": "Enterprise AI"
   }
 ]
