@@ -1,0 +1,6327 @@
+{
+  "Angel/Family Office": [
+    {
+      "fund_name": "Taiwan Global Angels",
+      "contact_name": "I-Chien Jan",
+      "email": "ic@taiwanglobalangels.com",
+      "city": "Berkeley",
+      "identified_category": "Angel/Family Office",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "AGI House",
+      "contact_name": "Rocky Yu",
+      "email": "rocky@agihouse.org",
+      "city": "Hillsborough",
+      "identified_category": "Angel/Family Office",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Draper Richards Kaplan Foundation",
+      "contact_name": "Anika Warren Woods",
+      "email": "anika@drkfoundation.org",
+      "city": "Menlo Park",
+      "identified_category": "Angel/Family Office",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "The Angels' Forum",
+      "contact_name": "Leif Langensand",
+      "email": "leif.langensand@loqate.com",
+      "city": "Mountain View",
+      "identified_category": "Angel/Family Office",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "ARC Angel Fund",
+      "contact_name": "Edward G. Reitler",
+      "email": "ereitler@reitlerlaw.com",
+      "city": "New York",
+      "identified_category": "Angel/Family Office",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Cordes Foundation",
+      "contact_name": "Eric Stephenson",
+      "email": "eric@cordesfoundation.org",
+      "city": "New York",
+      "identified_category": "Angel/Family Office",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Digital Irish Angels",
+      "contact_name": "David Beatty",
+      "email": "david@digitalirish.com",
+      "city": "New York",
+      "identified_category": "Angel/Family Office",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Golden Seeds Ventures",
+      "contact_name": "Jacob Afriat",
+      "email": "jacob@greatcircle.vc",
+      "city": "New York",
+      "identified_category": "Angel/Family Office",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "SuperAngel.Fund",
+      "contact_name": "Laurel Touby",
+      "email": "laurel@supernode.vc",
+      "city": "New York",
+      "identified_category": "Angel/Family Office",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "The John P. & Anne Welsh McNulty Foundation",
+      "contact_name": "Brian P. Phillips",
+      "email": "bphillips@thepearl.fund",
+      "city": "New York",
+      "identified_category": "Angel/Family Office",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Peery Foundation",
+      "contact_name": "Pingrong Benard Joseph Yu",
+      "email": "pr.yu@yugalaxy.com",
+      "city": "Palo Alto",
+      "identified_category": "Angel/Family Office",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Black Angel Tech Fund",
+      "contact_name": "Kwame Yao Anku",
+      "email": "kanku@blackstar.fund",
+      "city": "Sacramento",
+      "identified_category": "Angel/Family Office",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "AirAngels",
+      "contact_name": "Suman Talukdar",
+      "email": "suman@aisprouts.vc",
+      "city": "San Francisco",
+      "identified_category": "Angel/Family Office",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Archangel-1",
+      "contact_name": "Sharon Vosmek",
+      "email": "sharon@astia.org",
+      "city": "San Francisco",
+      "identified_category": "Angel/Family Office",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Band of Angels",
+      "contact_name": "Hannah Chelkowski",
+      "email": "hchelkowski@blank.com",
+      "city": "San Francisco",
+      "identified_category": "Angel/Family Office",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Dolby Family Ventures",
+      "contact_name": "Suraj Kumar Rajwani",
+      "email": "suraj@doublerock.com",
+      "city": "San Francisco",
+      "identified_category": "Angel/Family Office",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Life Science Angels",
+      "contact_name": "Eduardo Paolo Minguzzi",
+      "email": "paolo@vujade.cl",
+      "city": "Sunnyvale",
+      "identified_category": "Angel/Family Office",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    }
+  ],
+  "Tier 1 VC": [],
+  "Accelerator": [
+    {
+      "fund_name": "Brain Trust Accelerator Fund",
+      "contact_name": "John M. Reher",
+      "email": "john.reher@braintrustvc.com",
+      "city": "Burlingame",
+      "identified_category": "Accelerator",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "YouWeb Incubator",
+      "contact_name": "Peter Relan",
+      "email": "peter@youwebinc.com",
+      "city": "Burlingame",
+      "identified_category": "Accelerator",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Bronco Venture Accelerator",
+      "contact_name": "Alexi Sevastopoulos",
+      "email": "alexi@santacruzventures.com",
+      "city": "Santa Clara",
+      "identified_category": "Accelerator",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    }
+  ],
+  "Tier 2 VC": [
+    {
+      "fund_name": "Alpine Ventures (California)",
+      "contact_name": "Edward Suh",
+      "email": "esuh@alpine.vc",
+      "city": "Alameda",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Gather Ventures",
+      "contact_name": "Adam Slutsky",
+      "email": "adam@gatherventures.com",
+      "city": "Bedford",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Wisemont Capital",
+      "contact_name": "Jun Li",
+      "email": "jun@wisemontcapital.com",
+      "city": "Belmont",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Echo River Capital",
+      "contact_name": "Peter Yolles",
+      "email": "peter@echorivercap.com",
+      "city": "Belvedere Tiburon",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Manifest Investment Partners",
+      "contact_name": "Sinan Aral",
+      "email": "sinan@milemark.capital",
+      "city": "Berkeley",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Base Ventures",
+      "contact_name": "Erik Moore",
+      "email": "erik@base.ventures",
+      "city": "Berkeley",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Freeflow Ventures",
+      "contact_name": "David Fleck",
+      "email": "david@freeflow.io",
+      "city": "Berkeley",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "The Roda Group",
+      "contact_name": "Roger A. Strauch",
+      "email": "roger@rodagroup.com",
+      "city": "Berkeley",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Opticality Ventures",
+      "contact_name": "Hadar Pedhazur",
+      "email": "hadar@opticality.com",
+      "city": "Baircliff Manor",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Blue Collective",
+      "contact_name": "JJ Kasper",
+      "email": "jjkasper@bluecollective.com",
+      "city": "Brooklyln",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Brooklyn Bridge Ventures",
+      "contact_name": "Charles E. O'Donnell",
+      "email": "charlie@brooklynbridge.vc",
+      "city": "Brooklyln",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Habitat Partners",
+      "contact_name": "Blake D. Lyon",
+      "email": "blake@habitatpartners.co",
+      "city": "Brooklyln",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "K8 Capital",
+      "contact_name": "Andre Koo",
+      "email": "andre@k8cap.com",
+      "city": "Brooklyln",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Lorimer Ventures",
+      "contact_name": "Nicholas Wijnberg",
+      "email": "nick@lorimerventures.com",
+      "city": "Brooklyln",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Notation Capital",
+      "contact_name": "Mackenzie Regent",
+      "email": "mackenzie@notationcapital.com",
+      "city": "Brooklyln",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Plaintext Capital",
+      "contact_name": "Philip Bonello",
+      "email": "philip@plaintextcapital.com",
+      "city": "Brooklyln",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Inspiration Ventures",
+      "contact_name": "Gady Nemirovsky",
+      "email": "gady@inspirationvc.com",
+      "city": "Burlingame",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Shorewind Capital",
+      "contact_name": "Andrew Rubenstein",
+      "email": "andrew@shorewindcapital.com",
+      "city": "Burlingame",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "The Explorer Group",
+      "contact_name": "Daniel J. Laury",
+      "email": "daniel@udelv.com",
+      "city": "Burlingame",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Valon Capital",
+      "contact_name": "John S. Kim",
+      "email": "john.kim@sendbird.com",
+      "city": "Burlingame",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Natural Capital (US)",
+      "contact_name": "Jay Zaveri",
+      "email": "jay@naturalcapital.com",
+      "city": "Campbell",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "True Blue Partners",
+      "contact_name": "Sunil Grover",
+      "email": "sgrover@truebluepartners.com",
+      "city": "Campbell",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Reservoir Ventures",
+      "contact_name": "Danny Bernstein",
+      "email": "danny@reservoir.co",
+      "city": "Carmel Valley",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "K20 Fund",
+      "contact_name": "Eli Ghoori",
+      "email": "eli@ufsfunding.com",
+      "city": "Cedahurst",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "TechU Ventures",
+      "contact_name": "Natanel Barookhian",
+      "email": "natanel@techuventures.com",
+      "city": "Cedahurst",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "19York",
+      "contact_name": "Toby Blue",
+      "email": "tblue@19yadvisors.com",
+      "city": "Cupertino",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Marin Sonoma Impact Ventures",
+      "contact_name": "Zachary Kushel",
+      "email": "zkushel@msivfund.com",
+      "city": "Cupertino",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Mindfull Investors",
+      "contact_name": "Dean Radetsky",
+      "email": "dean@mindfullinvestors.com",
+      "city": "Cupertino",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Frontier Ventures",
+      "contact_name": "Dmitry Alimov",
+      "email": "dmitry@frontier.ventures",
+      "city": "Cupertino",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Cava Capital",
+      "contact_name": "Geoff Schneider",
+      "email": "geoff@gosagalife.com",
+      "city": "Darien",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Samaritan Partners",
+      "contact_name": "Christopher Maher",
+      "email": "chris@samaritanpartners.com",
+      "city": "Darien",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Recursive Ventures",
+      "contact_name": "Itamar Novick",
+      "email": "itamar@recursiveventures.com",
+      "city": "El Cerrito",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Real Life Innovations",
+      "contact_name": "Ofer Shapiro",
+      "email": "ofer@rlinnovation.com",
+      "city": "Fair Lawn",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "AMED Ventures",
+      "contact_name": "Joseph Y. Liu",
+      "email": "joel@techlinkventures.com",
+      "city": "Freemont",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "BAY STREET HOSPITALITY",
+      "contact_name": "William Lloyd Huston",
+      "email": "william@baystreetcapitalholdings.com",
+      "city": "Freemont",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Brave14 Capital",
+      "contact_name": "Taarini Kaur Dang",
+      "email": "taarini@brave14capital.com",
+      "city": "Freemont",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Celtic House Asia Partners",
+      "contact_name": "Sky Yu",
+      "email": "sky@celticvc.com",
+      "city": "Freemont",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Magic Ventures (Fremont)",
+      "contact_name": "Simar Mangat",
+      "email": "simar@magic.vc",
+      "city": "Freemont",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Granite Oak Capital",
+      "contact_name": "Erik Peterson",
+      "email": "erik@graniteoakcap.com",
+      "city": "Granite Bay",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Galaxy Management",
+      "contact_name": "Jake Milton Zeller",
+      "email": "jake@joingalaxy.co",
+      "city": "Breat Neck",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "C2 Ventures",
+      "contact_name": "Chris Cunningham",
+      "email": "chris@c2ventures.co",
+      "city": "Greenwich",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Interactive Venture Partners",
+      "contact_name": "Laszlo Robert Czirjak",
+      "email": "lczirjak@interactivevp.com",
+      "city": "Greenwich",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Natureza Growth Partners",
+      "contact_name": "Fernando B Gentil",
+      "email": "fernando@natureza.co",
+      "city": "Greenwich",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Teamworthy Group",
+      "contact_name": "Melanie Ashmore",
+      "email": "melanie@teamworthy.com",
+      "city": "Greenwich",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Eridani Ventures",
+      "contact_name": "Tom Shields",
+      "email": "tshields@eriven.com",
+      "city": "Hillsborough",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Counterview Capital",
+      "contact_name": "Brian Rubenstein",
+      "email": "brian@counterview.vc",
+      "city": "Jericho",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "InFocus Capital Partners",
+      "contact_name": "Robert Rothman",
+      "email": "rrothman@infocuscapitalpartners.com",
+      "city": "Jericho",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Plasma Ventures",
+      "contact_name": "Burhan Jaffer",
+      "email": "jafferburhan@gmail.com",
+      "city": "Jericho",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "HALLEY Venture Partners",
+      "contact_name": "Steven J. Schuman",
+      "email": "steve@halleyvp.com",
+      "city": "Jersey City",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Click Ventures (New York)",
+      "contact_name": "Bill Wise",
+      "email": "bill@mediaocean.com",
+      "city": "Lafayette",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "EB Exchange",
+      "contact_name": "Laurence Albukerk",
+      "email": "laurence.albukerk@ebexchangefunds.com",
+      "city": "Larchmont",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "1004 Venture Partners",
+      "contact_name": "Soyoung Park",
+      "email": "spark@1004venturepartners.com",
+      "city": "Larkspur",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Aligned Partners",
+      "contact_name": "Susan Mason",
+      "email": "susan@alignedvc.com",
+      "city": "Los Altos",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Combine",
+      "contact_name": "Adam Michela",
+      "email": "adam.michela@combine.vc",
+      "city": "Los Altos",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Firebolt Ventures",
+      "contact_name": "Vineet Buch",
+      "email": "vbuch@fireboltventures.com",
+      "city": "Los Altos",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "MFV Partners",
+      "contact_name": "Kartheepan Madasamy",
+      "email": "kartheepan@mfvpartners.com",
+      "city": "Los Altos",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Monitor Ventures",
+      "contact_name": "Jerome S. Engel",
+      "email": "jengel@thinkbrg.com",
+      "city": "Los Altos",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Photon Fund",
+      "contact_name": "James Lee",
+      "email": "jlee@photonfund.vc",
+      "city": "Los Altos",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "PointGuard Ventures",
+      "contact_name": "Krish Panu",
+      "email": "krish@pointguardventures.com",
+      "city": "Los Altos",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Roble Ventures",
+      "contact_name": "Sergio J. Monsalve",
+      "email": "sergio@robleventures.com",
+      "city": "Los Altos",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Davidovs Venture Collective",
+      "contact_name": "Marina Davidova",
+      "email": "marina@davidovs.com",
+      "city": "Los Altos Hills",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "New Media Ventures",
+      "contact_name": "Jessica Salinas",
+      "email": "jsalinas@newmediaventures.org",
+      "city": "Los Angeles",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Global Semiconductor Group",
+      "contact_name": "Naveed Sherwani",
+      "email": "naveed@gsg.inc",
+      "city": "Los Gatos",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Neythri Futures Fund",
+      "contact_name": "Mythili Sankaran",
+      "email": "mythili@neythrifuturesfund.com",
+      "city": "Los Gatos",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Rise Together Ventures",
+      "contact_name": "Kasey Lundquist Reiter",
+      "email": "kasey@risetogetherventures.com",
+      "city": "Los Gatos",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "SV8",
+      "contact_name": "Amr Abdelaziz",
+      "email": "amr@azangels.vc",
+      "city": "Los Gatos",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "SVG Ventures|THRIVE",
+      "contact_name": "John Hartnett",
+      "email": "john.hartnett@svgventures.com",
+      "city": "Los Gatos",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Wisdom Ventures",
+      "contact_name": "Soren Gordhamer",
+      "email": "soren@wisdomventuresfund.com",
+      "city": "Los Gatos",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Acadian Ventures",
+      "contact_name": "Jason Corsello",
+      "email": "jason.corsello@acadianventures.com",
+      "city": "Madison",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Orange Capital Ventures",
+      "contact_name": "Rhea Varsha Persaud",
+      "email": "rpersaud@orangecapital.ru",
+      "city": "Manhasset",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "10vc",
+      "contact_name": "Benjamin Patterson",
+      "email": "ben@10vc.com",
+      "city": "Menlo Park",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Aurum Partners",
+      "contact_name": "Brano Perkovich",
+      "email": "brano.perkovich@49ers.com",
+      "city": "Menlo Park",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Compass Technology Partners",
+      "contact_name": "David G. Arscott",
+      "email": "darscott@compasstechpartners.com",
+      "city": "Menlo Park",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Costella Kirsch",
+      "contact_name": "Brandon Child",
+      "email": "brandon@costellakirsch.com",
+      "city": "Menlo Park",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "DigitalDx Ventures",
+      "contact_name": "Michele Colucci",
+      "email": "michele@digitaldxventures.com",
+      "city": "Menlo Park",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Dragon Venture",
+      "contact_name": "K. Bobby Chao",
+      "email": "bchao@dragonventure.com",
+      "city": "Menlo Park",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Eighty-Seven Capital (US)",
+      "contact_name": "Sam Hinkie",
+      "email": "sam@87capital.com",
+      "city": "Menlo Park",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Embedding VC",
+      "contact_name": "Roger Jie Luo",
+      "email": "roger@embedding.vc",
+      "city": "Menlo Park",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Good AI Capital",
+      "contact_name": "Darwin Ling",
+      "email": "darwin@goodai.capital",
+      "city": "Menlo Park",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Health2047 Capital Partners",
+      "contact_name": "Douglass Given",
+      "email": "doug.given@health2047capital.com",
+      "city": "Menlo Park",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Integra Groupe",
+      "contact_name": "Alfredo I Vargas",
+      "email": "alfredo@integragroupe.com",
+      "city": "Menlo Park",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Kicker Ventures",
+      "contact_name": "Tomoko Ishikura",
+      "email": "info@kickerventures.com",
+      "city": "Menlo Park",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Mindful Venture Capital",
+      "contact_name": "Ari Qayumi",
+      "email": "ari@mindfulvc.com",
+      "city": "Menlo Park",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Motus Ventures",
+      "contact_name": "James Disanto",
+      "email": "jim@motusventures.com",
+      "city": "Menlo Park",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Network VC",
+      "contact_name": "Alexander Soroka",
+      "email": "a@network.vc",
+      "city": "Menlo Park",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "OVO Fund",
+      "contact_name": "Eric Chen",
+      "email": "eric@ovofund.com",
+      "city": "Menlo Park",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "PEER Venture Partners",
+      "contact_name": "Jared Hutchings",
+      "email": "jared@peer.vc",
+      "city": "Menlo Park",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Rackhouse Venture Capital",
+      "contact_name": "Kevin Novak",
+      "email": "kevin@rackhouse.vc",
+      "city": "Menlo Park",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Sarah Smith Fund",
+      "contact_name": "Sarah Smith",
+      "email": "sarah@sarahsmith.fund",
+      "city": "Menlo Park",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Startup Capital Ventures",
+      "contact_name": "Donavan Kealoha",
+      "email": "dkealoha@startupcv.com",
+      "city": "Menlo Park",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Sunna Ventures",
+      "contact_name": "Luis Daniel Arbulu",
+      "email": "luis@sunna.vc",
+      "city": "Menlo Park",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Synergy Ventures",
+      "contact_name": "Allan Johnston",
+      "email": "ajohnston@synergyventures.net",
+      "city": "Menlo Park",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Viaduct Ventures",
+      "contact_name": "Vadim Balashov",
+      "email": "vadim@viaduct.vc",
+      "city": "Menlo Park",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Aphelion Capital",
+      "contact_name": "Edwin F. Scheetz",
+      "email": "ned@aphelioncap.com",
+      "city": "Mill Valley",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Gerken Capital Associates",
+      "contact_name": "Louis Charles Gerken",
+      "email": "gerken@gerkencapital.com",
+      "city": "Mill Valley",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Healthy Ventures",
+      "contact_name": "Enmi Kendall",
+      "email": "enmi@healthy.vc",
+      "city": "Mill Valley",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "SeaX Ventures",
+      "contact_name": "Supachai Parchariyanon",
+      "email": "kid@seaxventures.vc",
+      "city": "Millbrea",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Silicon Valley Quad",
+      "contact_name": "Raj-Ann Rekhi Gill",
+      "email": "rajann@svquad.com",
+      "city": "Mountain View",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Anexa Capital (US)",
+      "contact_name": "Dejana Dua",
+      "email": "dejanadua@anexacapital.com",
+      "city": "Mountain View",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Growth Enjin Partners",
+      "contact_name": "Kazuki Notsu",
+      "email": "kazuki@incubatefund.com",
+      "city": "Mountain View",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Monta Vista Capital",
+      "contact_name": "Venktesh Shukla",
+      "email": "venk@montavc.com",
+      "city": "Mountain View",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Suvan Ventures",
+      "contact_name": "Radhesh Kanumury",
+      "email": "radhesh@suvan.vc",
+      "city": "Mountain View",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Eight Bar Partners",
+      "contact_name": "Thomas Edwin Doster",
+      "email": "tdoster@eightbarpartners.com",
+      "city": "New Canaan",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Cloquet Capital Partners",
+      "contact_name": "Burton E. McGillivray",
+      "email": "burt@cloquetcapital.com",
+      "city": "New Canaan",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Bulldog Innovation Group",
+      "contact_name": "Laura Kauer Rodriguez",
+      "email": "laura@bulldog.vc",
+      "city": "New Haven",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Elm Street Ventures",
+      "contact_name": "Robert Bettigole",
+      "email": "rbettigole@elmvc.com",
+      "city": "New Haven",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "1540 Ventures",
+      "contact_name": "Robert King",
+      "email": "king@crewecapital.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "2048 Ventures",
+      "contact_name": "Alex Iskold",
+      "email": "alex@2048.vc",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "355 Capital",
+      "contact_name": "Nissim X Cohen",
+      "email": "xc@355cap.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "3ig Ventures",
+      "contact_name": "Chip Brian",
+      "email": "chip@3igventures.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "97212 Ventures",
+      "contact_name": "Eyal Bino",
+      "email": "eyal@97212.vc",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Abundance Partners",
+      "contact_name": "Vladimir Efros",
+      "email": "vefros@abundancelp.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Academy Investor Network",
+      "contact_name": "Sherman Williams",
+      "email": "sherman@academyinvestor.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Access Ventures (New York)",
+      "contact_name": "Mudit Dawar",
+      "email": "mudit@accessventures.co",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Adnate Capital",
+      "contact_name": "Benjamin Avor",
+      "email": "bavor@adnatecapital.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "AG Dillon & Co",
+      "contact_name": "Aaron Dillon",
+      "email": "aaron.dillon@agdillon.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "AIF",
+      "contact_name": "Christopher R. Male",
+      "email": "chris@autismimpact.fund",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "AlleyCorp",
+      "contact_name": "Kevin p. Ryan",
+      "email": "kevinryan@alleycorp.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Almanac Insights",
+      "contact_name": "David Barber",
+      "email": "david@almanacinvest.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Alrion Pillar Capital",
+      "contact_name": "Anthony Ofongo",
+      "email": "anthony@alrionpillarcapital.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Altari Ventures",
+      "contact_name": "Anna Garcia",
+      "email": "anna@altariventures.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Altitude Investment Management",
+      "contact_name": "Michael Goldberg",
+      "email": "mgoldberg@altitudein.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Altra Venture Partners",
+      "contact_name": "Jamie Melzer",
+      "email": "jamie@altravp.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Aperture Venture Partners",
+      "contact_name": "Eric H. Sillman",
+      "email": "eric@aperturevp.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Arcus Ventures",
+      "contact_name": "Chad Hellmann",
+      "email": "ch@arcusventures.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Arcview Ventures",
+      "contact_name": "Jeffrey E. Finkle",
+      "email": "jeffreyfinkle@arcviewventures.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Ascent Biomedical Ventures",
+      "contact_name": "Steven Hochberg",
+      "email": "shochberg@abvlp.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Atypical Ventures",
+      "contact_name": "Christopher Wake",
+      "email": "chris@atypical.vc",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Avant Bio",
+      "contact_name": "Daniella Kranjac",
+      "email": "daniella@avant.bio",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Azuro Capital",
+      "contact_name": "Yuly Djaparidze",
+      "email": "yuly@azurocapital.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "B3 Capital",
+      "contact_name": "Nikolas Huth",
+      "email": "nikolas@b3cap.co",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Backwards Capital",
+      "contact_name": "Chris Zarou",
+      "email": "chris@backwardscapital.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Banter Capital (United States)",
+      "contact_name": "Heston Berkman",
+      "email": "heston@bantercap.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Banyan Ventures (New York)",
+      "contact_name": "Sam Awrabi",
+      "email": "sam@banyan-vc.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Basis Vectors",
+      "contact_name": "Ambarish Narayan Gupta",
+      "email": "ambarish@basisvectors.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "BAT VC",
+      "contact_name": "Aditya Mishra",
+      "email": "aditya@bat-vc.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "BBG Ventures (North America)",
+      "contact_name": "Susan M. Lyne",
+      "email": "susan.lyne@bbgventures.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Be Human Capital",
+      "contact_name": "Himanshu Niranjani",
+      "email": "himanshu@behuman.capital",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Belief Capital",
+      "contact_name": "Kevin Costa",
+      "email": "kevin@beliefcapital.co",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Benchstrength (New York)",
+      "contact_name": "Ken Chenault",
+      "email": "kchenault@benchstrengthvc.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Bettor Capital",
+      "contact_name": "David VanEgmond",
+      "email": "dave@bettorcapital.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "BFF VC",
+      "contact_name": "Miguel Burger-Calderon",
+      "email": "miguel@bff.vc",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Black Opal Ventures",
+      "contact_name": "Eileen Tanghal",
+      "email": "eileen.tanghal@blackopalventures.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Blanck Capital",
+      "contact_name": "Jason K. Blanck",
+      "email": "jason@blanckcapital.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Bleu Capital",
+      "contact_name": "Julien Lepleux",
+      "email": "julien@bleucap.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Blue Ox Healthcare Partners",
+      "contact_name": "Alexander R. Rogers",
+      "email": "alex@blueoxhcp.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Blue Scorpion Investments",
+      "contact_name": "Gautam Ahuja",
+      "email": "ga@bluescorpioninv.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Boro Capital",
+      "contact_name": "Daniel Roever",
+      "email": "daniel@borocapital.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Bridgespan VC",
+      "contact_name": "Adrien Gautier",
+      "email": "adrien@bridgespan.vc",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Bright Ventures",
+      "contact_name": "Lenore Champagne Beirne",
+      "email": "lenore@brightventures.io",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Broad St Ventures",
+      "contact_name": "Ralonda Johnson",
+      "email": "ralonda@broadstventures.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Bullish (Consulting Services)",
+      "contact_name": "Michael Duda",
+      "email": "mike@bullish.co",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Burnt Island Ventures",
+      "contact_name": "Thomas Collin Eustace Ferguson",
+      "email": "tom@burntislandventures.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Cadenza Capital",
+      "contact_name": "Max Shapiro",
+      "email": "max@cadenza.vc",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Capital 49",
+      "contact_name": "Jack Zhang",
+      "email": "jack@airwallex.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Carbon Ventures",
+      "contact_name": "Jason Cahill",
+      "email": "jason@carbonventures.vc",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Carthage Capital Group",
+      "contact_name": "Steve Sallion",
+      "email": "steve@carthage.net",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Centre Street Partners",
+      "contact_name": "Abie J. Cohen",
+      "email": "abie@centrestreet.partners",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Ceras Ventures",
+      "contact_name": "Sarah Abuagela",
+      "email": "sa@cerasvc.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Chenel Capital Partners",
+      "contact_name": "Richard Chenel",
+      "email": "richard.chenel@chenelcapital.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Chestnut Street Ventures",
+      "contact_name": "Brian Keil",
+      "email": "brian@av.vc",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "CitizenX",
+      "contact_name": "Emilio DiSanluciano",
+      "email": "emilio@citizenx.co",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "CJNV BioVentures",
+      "contact_name": "Chau Q. Khuong",
+      "email": "ckhuong@cjnv-bioventures.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "CoFound Partners",
+      "contact_name": "Jordan Wan",
+      "email": "jordan@cofoundpartners.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Collate Capital",
+      "contact_name": "Mark C. Weaver",
+      "email": "mweaver@collatecapital.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Colle Capital Partners",
+      "contact_name": "Victoria Grace",
+      "email": "victoria@collecapital.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Collide Capital",
+      "contact_name": "Brian Hollins",
+      "email": "brian@collidecap.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Communitas Capital Partners",
+      "contact_name": "Douglas Atkin",
+      "email": "douga@communitascapital.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "ComposeVC",
+      "contact_name": "Cem Kemal Mimaroğlu",
+      "email": "cem.mimaroglu@composevc.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Connectivity Ventures Fund",
+      "contact_name": "Jaahred Thomas",
+      "email": "jct@connectivity.vc",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Courtside Ventures",
+      "contact_name": "Vasudev Badarinarayan Kulkarni",
+      "email": "vasu@courtsidevc.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Credibly Neutral",
+      "contact_name": "Lisa Cuesta Bunin",
+      "email": "lisa@aztecprotocol.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Crew Capital",
+      "contact_name": "Brandon Deer",
+      "email": "brandon.deer@uipath.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Crystal Venture Partners",
+      "contact_name": "Jonathan H.F Crystal",
+      "email": "jhfc@crystalventurepartners.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Cult Capital",
+      "contact_name": "John M. Kenney",
+      "email": "jmk@cultcapital.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Daraja Capital",
+      "contact_name": "Raudline Etienne",
+      "email": "etienne@brightwoodlp.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Datapower Ventures",
+      "contact_name": "David Yakobovitch",
+      "email": "david@datapower.vc",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Decisive Point",
+      "contact_name": "Thomas Hendrix",
+      "email": "tommy@decisivepoint.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Delta Blockchain Fund",
+      "contact_name": "Kavita Gupta",
+      "email": "kavita@deltafund.io",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Demand Signal Ventures",
+      "contact_name": "Daniel Selli",
+      "email": "dselli@demandsignalventurepartners.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Divergent Capital (New York)",
+      "contact_name": "Katie Shea",
+      "email": "katie@divergenthq.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "DMC Capital Funding",
+      "contact_name": "Andrew Lowinger",
+      "email": "alowinger@dmccapitalfunding.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Dynamk Capital",
+      "contact_name": "Ann Partlow",
+      "email": "apartlow@earthrisecapital.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Earthrise Capital",
+      "contact_name": "Roger Ehrenberg",
+      "email": "roger@ebergcapital.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Eberg Capital",
+      "contact_name": "Shreyas Slater Chityala",
+      "email": "sschityala@eipfund.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Elevate Innovation Partners",
+      "contact_name": "William McClelland",
+      "email": "will@elizabethstreet.vc",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Elizabeth Street Ventures",
+      "contact_name": "David Martin Geliebter",
+      "email": "dgeliebter@criticaldiagnostics.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Embark Healthcare",
+      "contact_name": "Avani Patel",
+      "email": "avani@embercompany.co",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "ember co.",
+      "contact_name": "Joshua Smith",
+      "email": "joshua.smith@emeraldmanagers.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Emerald Development Managers",
+      "contact_name": "Melissa Frakman",
+      "email": "mfrakman@em.vc",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Emphasis Ventures (EMVC)",
+      "contact_name": "Anthony Buffa",
+      "email": "abuffa@endeavorcap.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Endeavor Capital Management",
+      "contact_name": "Mahesh Ramakrishnan",
+      "email": "mahesh@ev3.xyz",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "EV3",
+      "contact_name": "Adam Huttler",
+      "email": "adam.huttler@exponentialcreativity.vc",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Exponential Creativity Ventures",
+      "contact_name": "James C. Murray",
+      "email": "jmurray@exsightventures.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "ExSight Ventures",
+      "contact_name": "David T. Tswamuno",
+      "email": "david@fairbridge.vc",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Fairbridge (New York)",
+      "contact_name": "Anuradha Duggal",
+      "email": "anu@femalefoundersfund.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Female Founders Fund",
+      "contact_name": "William F. Detwiler",
+      "email": "bdetwiler@fernbrookmgmt.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Fernbrook Capital Management",
+      "contact_name": "Matt Straz",
+      "email": "matt@fidiventures.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "FiDi Ventures",
+      "contact_name": "Rob Pellecchia",
+      "email": "rob@figmentcapital.io",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Figment Capital",
+      "contact_name": "David Birnbaum",
+      "email": "dbirnbaum@broadwayvideo.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Five Four Ventures",
+      "contact_name": "Andrew Vigneault",
+      "email": "andrew@flexcap.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Flexcap Ventures",
+      "contact_name": "Ismail Kola",
+      "email": "ismail.kola@forepont.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Forepont Capital Partners",
+      "contact_name": "Michael Cardamone",
+      "email": "mike@forumvc.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Forum Ventures",
+      "contact_name": "Jalak Jobanputra",
+      "email": "jalak@fpv.vc",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Future Perfect Ventures",
+      "contact_name": "Lev Ekster",
+      "email": "lev@meetgambit.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Gambit Ventures",
+      "contact_name": "Ihar Mahaniok",
+      "email": "ihar@geek-ventures.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Geek Ventures",
+      "contact_name": "Jason Hishmeh",
+      "email": "sj@getstartupfunding.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Get Startup Funding",
+      "contact_name": "Miguel Armaza",
+      "email": "miguel@gilgameshvc.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Gilgamesh Ventures",
+      "contact_name": "Simon G. Gillett",
+      "email": "simon.gillett@gaiiff.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Global AI Internet Freedom Fund",
+      "contact_name": "Ted Moon",
+      "email": "tmoon@globalbioaccess.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Global BioAccess Fund",
+      "contact_name": "Jeffrey A. Stewart",
+      "email": "jeff@gpofund.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Global Public Offering Fund",
+      "contact_name": "Deb Gerardi Kemper",
+      "email": "dkemper@goldenseeds.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Great Circle Ventures",
+      "contact_name": "Celine Kwok",
+      "email": "ckwok@greatoaksvc.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Great Oaks Venture Capital",
+      "contact_name": "Nobu Iguchi",
+      "email": "nobu@greatwave.vc",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Great Wave Ventures",
+      "contact_name": "Alex Ferber",
+      "email": "alex@greenegg.vc",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Green Egg Ventures",
+      "contact_name": "Paul Palmieri",
+      "email": "paul@grit.vc",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Grit Capital Partners",
+      "contact_name": "James Gettinger",
+      "email": "james@gutter.cc",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Gutter Capital",
+      "contact_name": "Oliver B. Libby",
+      "email": "oliver@h-l.vc",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "H/L Ventures",
+      "contact_name": "Max Batt",
+      "email": "max@hangar.is",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Hangar Capital",
+      "contact_name": "Jinlong Wang",
+      "email": "jerry.wang@hi2global.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Hi2 Global",
+      "contact_name": "Laurence Girard",
+      "email": "laurence.girard@healthcareshares.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Hippocrates Ventures",
+      "contact_name": "Shummi Jindal",
+      "email": "sjindal@hudsonparkadvisors.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Hudson Park Advisors",
+      "contact_name": "Heather Hartnett",
+      "email": "heather@human.vc",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Human Ventures",
+      "contact_name": "Chip Austin",
+      "email": "caustin@hbse.vc",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "i-Hatch Ventures",
+      "contact_name": "Miriam Dong",
+      "email": "miriam@id3.vc",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "ID3 Ventures",
+      "contact_name": "Nish Patel",
+      "email": "nish@inertia.vc",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Inertia Ventures",
+      "contact_name": "Kabe Roashan",
+      "email": "kabe@inflectionvc.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Inflection Ventures (New York)",
+      "contact_name": "Andrew J. Chomer",
+      "email": "andrew@integrated.vc",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Integrated",
+      "contact_name": "Vincent Diallo",
+      "email": "vincent@progression.fund",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Interlace Ventures",
+      "contact_name": "Lisa Chai",
+      "email": "lisa@interwoven.vc",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Interwoven Ventures",
+      "contact_name": "Sarah G. Foley",
+      "email": "sarah@swatequitypartners.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "InviNext Growth Partners",
+      "contact_name": "Jean Sini",
+      "email": "jean@irregex.vc",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Irregular Expressions",
+      "contact_name": "Joshua Jacobson",
+      "email": "josh@jventures.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "J Ventures Mgmt",
+      "contact_name": "Bruce A. Jaffe",
+      "email": "bruce@j4.ventures",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "J4.Ventures",
+      "contact_name": "Parker Wittman",
+      "email": "parker@jackalope.vc",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Jackalope Ventures",
+      "contact_name": "Lindsay Hoover",
+      "email": "lindsay@jls.fund",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "JLS Fund",
+      "contact_name": "Jeffrey Parkinson",
+      "email": "jparkinson@kecventures.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "KEC Ventures",
+      "contact_name": "Andreas Panayi",
+      "email": "andreas@kinisisventures.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Kinisis Ventures",
+      "contact_name": "Dan Rowe",
+      "email": "dan@kitchenfund.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Kitchen Fund",
+      "contact_name": "Rakesh Gupta",
+      "email": "rakesh.gupta@kiwitech.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "KiwiVenture Partners",
+      "contact_name": "David Williams",
+      "email": "dw@knick.io",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Knickerbocker Capital (New York)",
+      "contact_name": "Geri Kirilova",
+      "email": "geri@laconiacapitalgroup.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Laconia Capital Group",
+      "contact_name": "John Neamonitis",
+      "email": "john@lakehouse.vc",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Lakehouse Ventures",
+      "contact_name": "Jason Lu",
+      "email": "jason@latercapital.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Later Capital",
+      "contact_name": "Steven Grin",
+      "email": "sgrin@lateralfrontiers.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Lateral Frontiers VC",
+      "contact_name": "Brittany Gorevic Laughlin",
+      "email": "brittany@lattice.vc",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Lattice Ventures",
+      "contact_name": "Rachel Wu",
+      "email": "rachel@legendary.vc",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Legendary Ventures",
+      "contact_name": "Alexey Tsyplakov",
+      "email": "alex@lightray.vc",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Light Ray Ventures",
+      "contact_name": "Jamie Roberts Seltzer",
+      "email": "jamie@incredibledream.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "LightShed Ventures",
+      "contact_name": "Alexander Holt",
+      "email": "alexander@limitlessventures.us",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Limitless Ventures",
+      "contact_name": "Marcus Glover",
+      "email": "mglover@lockstepventures.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Lockstep Ventures",
+      "contact_name": "Sergey Young",
+      "email": "sy@peakstate.vc",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Longevity Vision Fund",
+      "contact_name": "Adam Besvinick",
+      "email": "adam@lookingglass.vc",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Looking Glass Capital",
+      "contact_name": "Paul Capon",
+      "email": "paul@lunacapventures.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "LunaCap Ventures",
+      "contact_name": "Steven Berg",
+      "email": "sberg@lyticalventures.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Lytical Ventures",
+      "contact_name": "Mark Ghermezian",
+      "email": "mark.ghermezian@braze.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "m]x[v Capital",
+      "contact_name": "Moshe Bellows",
+      "email": "mbellows@maccabee.vc",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Maccabee Ventures",
+      "contact_name": "Antonio Luck",
+      "email": "antonio@matterscale.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "MatterScale Ventures",
+      "contact_name": "Lauren Bonner",
+      "email": "lauren.bonner@juristat.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "MBM Capital",
+      "contact_name": "Rafael Torgovicky",
+      "email": "rt@med-explore.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Medexplore Ventures",
+      "contact_name": "Scott Law",
+      "email": "scott@meridianstreetcapital.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Meridian Street Capital",
+      "contact_name": "Caroline Kassie",
+      "email": "caroline@metrodora.vc",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Metrodora Ventures",
+      "contact_name": "Owen E.H. Meyer",
+      "email": "owen@meyerglobalmgmt.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Meyer Global Management",
+      "contact_name": "Gary Benerofe",
+      "email": "gary@clicksandbricks.digital",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Mu Ventures",
+      "contact_name": "Michael Weinmann",
+      "email": "mike@mvolutionpartners.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "MVolution Partners",
+      "contact_name": "John Michael Cataldi",
+      "email": "john@clearhealthpass.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Native American Venture Fund",
+      "contact_name": "Ivan Alo",
+      "email": "ivan@newage.vc",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "New Age Capital",
+      "contact_name": "Elly Truesdell",
+      "email": "elly@madebynacho.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "New Fare Partners",
+      "contact_name": "Alex Marinier",
+      "email": "alex@newformcap.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "New Form Capital",
+      "contact_name": "Igor Soshkin",
+      "email": "igor@nicecapital.vc",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Nice Capital",
+      "contact_name": "Ross Morton",
+      "email": "ross.morton@nodenza.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Nodenza Venture Partners",
+      "contact_name": "Simeon Iheagwam",
+      "email": "simeon@noemisventures.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Noemis Ventures",
+      "contact_name": "Jayesh Punater",
+      "email": "jpunater@nucleusdna.co",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Nucleus (New York)",
+      "contact_name": "Rabia Iqbal",
+      "email": "ir@nural.capital",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Nural Capital",
+      "contact_name": "Rohit Gandhi",
+      "email": "rohit@nytcp.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "NY Technology Capital Partners",
+      "contact_name": "MIchael Lythcott",
+      "email": "michael@obsidianip.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Obsidian Investment Partners",
+      "contact_name": "Sara Barek",
+      "email": "sara@oceans.ventures",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Oceans Ventures",
+      "contact_name": "Ben Freeberg",
+      "email": "ben@oncology.ventures",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Oncology Ventures",
+      "contact_name": "Peter DeSorcy",
+      "email": "pdesorcy@orteliusinvestments.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Ortelius Alternative Investment Management",
+      "contact_name": "Oleg Langbort",
+      "email": "oleg@ovalcap.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Oval Capital",
+      "contact_name": "Michael Nogen",
+      "email": "michael@presidiumcap.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Overton Venture Capital",
+      "contact_name": "Erica Wenger",
+      "email": "erica@parkrangerscap.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Park Rangers Capital",
+      "contact_name": "Mahdi Raza",
+      "email": "mahdi@pathlight.vc",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Pathlight Ventures",
+      "contact_name": "Ziv Ben-Barouch",
+      "email": "ziv@sivotacapital.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Pereg Ventures",
+      "contact_name": "Sophie Purdom",
+      "email": "sophie@planeteercapital.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Planeteer Capital",
+      "contact_name": "Deborah Jackson",
+      "email": "deborah@plumalley.co",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Plum Alley Ventures",
+      "contact_name": "Abby Miller Levy",
+      "email": "abby@primetimepartners.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Primetime Partners",
+      "contact_name": "Lorin Gu",
+      "email": "lorin@rechargecapital.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Recharge Capital",
+      "contact_name": "Drew Austin Greenfeld",
+      "email": "drew@redbeard.ventures",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Red Beard Ventures",
+      "contact_name": "Scott Birnbaum",
+      "email": "scott@redseaventures.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Red Sea Ventures",
+      "contact_name": "Erica Duignan Minnihan",
+      "email": "erica@reignvc.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Reign Ventures",
+      "contact_name": "Jiten Dajee",
+      "email": "jiten@rendered.vc",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Rendered VC",
+      "contact_name": "Mukund Menda",
+      "email": "mukund@reshape.co",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Reshape Ventures",
+      "contact_name": "Jordan S. Ryan",
+      "email": "jordan@rhythmvc.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Rhythm VC",
+      "contact_name": "David I. Frazee",
+      "email": "david.frazee@rglobal.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Richmond Global Ventures",
+      "contact_name": "Bruce E. Roberts",
+      "email": "broberts@rmglobal.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "RM Global Partners",
+      "contact_name": "Joshua B. Siegel",
+      "email": "joshua@rubicon.vc",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Rubicon Venture Capital",
+      "contact_name": "Matthew Boras",
+      "email": "mboras@rxr.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "RXR ARDEN Digital Ventures",
+      "contact_name": "Sanja Partalo",
+      "email": "sanja@s4sventures.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "S4S Ventures",
+      "contact_name": "Philipp Schams",
+      "email": "philipp@s5v.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "S5V",
+      "contact_name": "Lloyd Danzig",
+      "email": "lloyd@sharpalphaadvisors.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Sharp Alpha Advisors",
+      "contact_name": "Alexey V. Loganchuk",
+      "email": "alexey@sideralabs.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Sidera Labs",
+      "contact_name": "Richard L. Shorten",
+      "email": "rshorten@silverminecapital.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Silvermine Capital Advisors",
+      "contact_name": "Steven Etienne",
+      "email": "setienne@societygroup.co",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Society Group",
+      "contact_name": "Elizabeth Galbut",
+      "email": "elizabeth@alevelcapital.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "SoGal Ventures",
+      "contact_name": "Wisam Abdulla",
+      "email": "wiz@spacecadet.ventures",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Spacecadet Ventures",
+      "contact_name": "Amy Rosen Wildstein",
+      "email": "wildstein@suttona.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Springboard Growth Capital",
+      "contact_name": "Alexey Girin",
+      "email": "ag@starta.vc",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Starta Ventures",
+      "contact_name": "Talal Attieh",
+      "email": "talal@steelatlas.vc",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Steel Atlas",
+      "contact_name": "Laura Fox",
+      "email": "laura@streetlifeventures.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Streetlife Ventures",
+      "contact_name": "Joseph Coyne",
+      "email": "jcoyne@studio.vc",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Studio VC",
+      "contact_name": "Leland Hensch",
+      "email": "leland@enhanceddigital.group",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Subversive Capital",
+      "contact_name": "Ben M. Zises",
+      "email": "ben@superangel.vc",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Supernode Ventures",
+      "contact_name": "Jay Patil",
+      "email": "jay@swell.vc",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Swell Partners",
+      "contact_name": "Kenzi Wang",
+      "email": "kenzi@symbolic.capital",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Symbolic Capital",
+      "contact_name": "Michael Davis",
+      "email": "mdavis@syrencapitaladvisors.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Syren Capital Advisors",
+      "contact_name": "Shani Peled",
+      "email": "shani@technoart.org",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "TechnoArt",
+      "contact_name": "Jeremy Kagan",
+      "email": "jeremy@textbook.vc",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Textbook Ventures",
+      "contact_name": "Meline von Brentano",
+      "email": "mvonbrentano@palantir.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "The Caedmon Group",
+      "contact_name": "Ian Feeney",
+      "email": "ian@thecannonproject.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "The Cannon Project",
+      "contact_name": "Jesse J. Middleton",
+      "email": "jesse_middleton@thecommunity.vc",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "The Community Fund",
+      "contact_name": "Nik Milanovic",
+      "email": "nmilanovic@stablecon.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "The Fintech Fund",
+      "contact_name": "Maria Kochmola",
+      "email": "mk@gamesfund.vc",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "The Games Fund",
+      "contact_name": "Aprile Age",
+      "email": "acage@mcnultyfound.org",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "The Pearl Fund",
+      "contact_name": "George Hornig",
+      "email": "george@theseedlab.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "The Seed Lab",
+      "contact_name": "Elizabeth Luckett",
+      "email": "lluckett@tsef.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "The Social Entrepreneurs Fund",
+      "contact_name": "Shana Fisher",
+      "email": "shana@a16z.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Third Kind Venture Capital",
+      "contact_name": "Jeff Safferman",
+      "email": "jeff@timbergrovevc.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Timber Grove Ventures",
+      "contact_name": "Ben Feder",
+      "email": "benfeder@tirta.io",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Tirta Ventures",
+      "contact_name": "Steven Goldman",
+      "email": "sgoldman@tjnscapital.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "TJNS Capital",
+      "contact_name": "Eli Broverman",
+      "email": "eli@thetreasury.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Treasury (New York)",
+      "contact_name": "Jack Schow",
+      "email": "jschow@tremendousview.capital",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Tremendous View Capital",
+      "contact_name": "Jack Fennebresque",
+      "email": "jack@trestlelp.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Trestle Partners",
+      "contact_name": "John McEvoy",
+      "email": "john@tribecaesp.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Tribeca Early Stage Partners",
+      "contact_name": "Bennett Thomas",
+      "email": "bennett@tripleimpactcapital.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Triple Impact Capital",
+      "contact_name": "Bill Cohen",
+      "email": "bill@tuhayevp.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Tuhaye Venture Partners",
+      "contact_name": "Doug Perlson",
+      "email": "doug@uncommonvc.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Uncommon Denominator",
+      "contact_name": "Sunita Grote",
+      "email": "sgrote@unicef.org",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "UNICEF Venture Fund",
+      "contact_name": "Eric W. Roberts",
+      "email": "eroberts@valencefund.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Valence Life Sciences",
+      "contact_name": "Khaled Jalanbo",
+      "email": "khaled@valia.vc",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Valia Ventures",
+      "contact_name": "Neal Kapur",
+      "email": "nkapur@valley.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Valley Ventures",
+      "contact_name": "Josh Elwell",
+      "email": "josh@valuestreamventures.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "ValueStream Ventures",
+      "contact_name": "Aniq Rahman",
+      "email": "aniq@florenceos.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Vast Ventures",
+      "contact_name": "Maria Anthony",
+      "email": "maria@veraequity.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Vera Equity",
+      "contact_name": "Eric Chen",
+      "email": "eric@injectiveprotocol.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Vessel Capital",
+      "contact_name": "Ricardo A. Sagrera",
+      "email": "ricardo@viceven.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Viceroy Ventures",
+      "contact_name": "Eddy van der Paardt",
+      "email": "eddy@virtucapitalpartners.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Virtu Capital Partners",
+      "contact_name": "William FitzGerald",
+      "email": "wfitzgerald@windcrestpartners.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Windcrest Partners",
+      "contact_name": "Gayle Jennings-O'Byrne",
+      "email": "gayle@wocstar.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Wocstar",
+      "contact_name": "Johnny Lieberman",
+      "email": "johnny@worklynpartners.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Worklyn Partners",
+      "contact_name": "Daniel Weiss Pick",
+      "email": "daniel@wpss.bio",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "WPSS.bio",
+      "contact_name": "Guy P. Wyser-Pratte",
+      "email": "gwyser-pratte@wyser-pratte.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Wyser-Pratte Management Co",
+      "contact_name": "Allison Kopf",
+      "email": "allison@tract.eco",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "XFactor Ventures",
+      "contact_name": "Matthew Denning",
+      "email": "matthew.denning@yugenpartners.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Yugen Partners",
+      "contact_name": "Idan Sugarman",
+      "email": "idan@zero-knowledge.xyz",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Zero Knowledge",
+      "contact_name": "Donald E. Zilkha",
+      "email": "dzilkha@zilkhainvestments.com",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Zilkha Investments",
+      "contact_name": "Adrian Horotan",
+      "email": "adrian.horotan@safermade.net",
+      "city": "New York",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Safer Made",
+      "contact_name": "Eliza Schnitzer Gairard",
+      "email": "eliza@althea.one",
+      "city": "North Banford",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Althea Equity",
+      "contact_name": "Mike Crisp",
+      "email": "mike@harborcappartners.com",
+      "city": "Norwalk",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Harbor Cap Partners",
+      "contact_name": "John A. Fichthorn",
+      "email": "john@medtexventures.com",
+      "city": "Norwalk",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "MedTex Ventures",
+      "contact_name": "James Wang",
+      "email": "james@creativeventures.vc",
+      "city": "Norwalk",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Creative Ventures",
+      "contact_name": "Morelys Machado",
+      "email": "morelys@devlabs.vc",
+      "city": "Oakland",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Devlabs Ventures",
+      "contact_name": "Ghassan Aloshban",
+      "email": "galoshban@emkan.vc",
+      "city": "Oakland",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Emkan Capital",
+      "contact_name": "Cindy B. Padnos",
+      "email": "cindy@illuminate.com",
+      "city": "Oakland",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Illuminate Ventures",
+      "contact_name": "Kesha Cash",
+      "email": "kcash@impactamericafund.com",
+      "city": "Oakland",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Impact America Fund",
+      "contact_name": "Christine De la Rosa",
+      "email": "christine.delarosa@mytpd.com",
+      "city": "Oakland",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "The People's Group",
+      "contact_name": "Arpan Punyani",
+      "email": "apunyani@centercityventures.com",
+      "city": "Oakland",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Garuda",
+      "contact_name": "Amanda Terry",
+      "email": "amanda@actaiventures.com",
+      "city": "Orina",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "ACTAI Ventures",
+      "contact_name": "Nadav Eylath",
+      "email": "nadav@at.inc",
+      "city": "Palo Alto",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "at.inc/",
+      "contact_name": "Mary Wheeler",
+      "email": "mary@biorockventures.com",
+      "city": "Palo Alto",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "BioRock Ventures",
+      "contact_name": "Chris Yeh",
+      "email": "chris@blitzscalingvc.com",
+      "city": "Palo Alto",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Blitzscaling Ventures",
+      "contact_name": "Steven Willinger",
+      "email": "swillinger+pitchbook@alumni.stanford.edu",
+      "city": "Palo Alto",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Blockchain Builders Fund",
+      "contact_name": "Wouter Born",
+      "email": "wouter@borncapital.vc",
+      "city": "Palo Alto",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Born Capital (California)",
+      "contact_name": "Rami El Assal",
+      "email": "rami@boutiquevc.com",
+      "city": "Palo Alto",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Boutique Venture Partners",
+      "contact_name": "Lisa Stone",
+      "email": "lisa@braintrustfund.vc",
+      "city": "Palo Alto",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "BrainTrust Fund",
+      "contact_name": "Jon Sakoda",
+      "email": "jon@decibel.vc",
+      "city": "Palo Alto",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Decibel Partners",
+      "contact_name": "Mike Matthys",
+      "email": "mike@doorga.net",
+      "city": "Palo Alto",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Doorga Capital",
+      "contact_name": "Nikolai Oreshkin",
+      "email": "nikolai@elysium.vc",
+      "city": "Palo Alto",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Elysium Venture Capital",
+      "contact_name": "Darren T. Kimura",
+      "email": "darren.kimura@squared.ai",
+      "city": "Palo Alto",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Enerdigm",
+      "contact_name": "Holly Zheng",
+      "email": "holly@envisionxcapital.com",
+      "city": "Palo Alto",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "EnvisionX Capital",
+      "contact_name": "Alvaro Filpo",
+      "email": "alvaro@fabricaventures.com",
+      "city": "Palo Alto",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Fabrica Ventures",
+      "contact_name": "Kevin J. McQuillan",
+      "email": "kmcquillan@ocaventures.com",
+      "city": "Palo Alto",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Focus Opportunity Fund",
+      "contact_name": "Davorin Kuchan",
+      "email": "davorin@freerun.vc",
+      "city": "Palo Alto",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Freerun Ventures",
+      "contact_name": "Paul A. Conley",
+      "email": "paul@generalinception.com",
+      "city": "Palo Alto",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "General Inception",
+      "contact_name": "Bill Eichen",
+      "email": "bill.eichen@gimmelfund.com",
+      "city": "Palo Alto",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Gimmel Ventures",
+      "contact_name": "Amy Gu",
+      "email": "amy@hemi.vc",
+      "city": "Palo Alto",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Hemi Ventures",
+      "contact_name": "Claire Chang",
+      "email": "claire@ignitexl.com",
+      "city": "Palo Alto",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "IgniteXL Ventures",
+      "contact_name": "Braughm Ricke",
+      "email": "braughm@aduroadvisors.com",
+      "city": "Palo Alto",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "K9 Ventures",
+      "contact_name": "Winston Fu",
+      "email": "winston@ldvpartners.com",
+      "city": "Palo Alto",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "LDV Partners",
+      "contact_name": "Bin Zhou",
+      "email": "bin.zhou@lm.ventures",
+      "city": "Palo Alto",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "LM VENTURES",
+      "contact_name": "Sarah Lucas",
+      "email": "sarah@lucasvg.com",
+      "city": "Palo Alto",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Lucas Venture Group",
+      "contact_name": "Clint Chao",
+      "email": "clint@momentventures.com",
+      "city": "Palo Alto",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Moment Ventures",
+      "contact_name": "Zac Zeitlin",
+      "email": "zac@newground.vc",
+      "city": "Palo Alto",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "New Ground Ventures",
+      "contact_name": "Rohini Chakravarthy",
+      "email": "rohini@newbuild.vc",
+      "city": "Palo Alto",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "NewBuild Venture Capital",
+      "contact_name": "Nichol Bradford",
+      "email": "nichol.bradford@niremia.vc",
+      "city": "Palo Alto",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Niremia Collective",
+      "contact_name": "Denis Buryakovskyy",
+      "email": "bdv@o2founder.com",
+      "city": "Palo Alto",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "O2Founders",
+      "contact_name": "Neil Jay Wolff",
+      "email": "neil.wolff@oxonianventures.com",
+      "city": "Palo Alto",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Oxonian Ventures",
+      "contact_name": "David Peery",
+      "email": "david@peeryfoundation.org",
+      "city": "Palo Alto",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "SV Tech Ventures",
+      "contact_name": "Benjamin Narasin",
+      "email": "ben@tenacity.fund",
+      "city": "Palo Alto",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Tenacity Venture Capital",
+      "contact_name": "Arihant Gajendrakumar Patni",
+      "email": "arihant.patni@patniadvisors.com",
+      "city": "Palo Alto",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "The Hive",
+      "contact_name": "Safa Rashtchy",
+      "email": "safa@thinkplus.vc",
+      "city": "Palo Alto",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Think +",
+      "contact_name": "Crysti Chen",
+      "email": "crysti@uniwillventures.com",
+      "city": "Palo Alto",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "UniWill Ventures",
+      "contact_name": "Gil Ben-Artzy",
+      "email": "gil@upwest.vc",
+      "city": "Palo Alto",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "UpWest",
+      "contact_name": "Harry Gabriel Whelan",
+      "email": "gwhelan@wgcm.com",
+      "city": "Palo Alto",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Whelan Capital Management",
+      "contact_name": "Abhijit Solanki",
+      "email": "abhijit@whiteboard.vc",
+      "city": "Palo Alto",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Whiteboard Venture Partners",
+      "contact_name": "Bhavik Rana",
+      "email": "bhavik.r@numoneyholdings.com",
+      "city": "Palo Alto",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "NuMoney Advisors",
+      "contact_name": "Venkat Bussa",
+      "email": "vb@aurum.pe",
+      "city": "Passaic",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Aurum Venture Partners",
+      "contact_name": "Andrew Lanza",
+      "email": "drew@berkeleycatalystfund.com",
+      "city": "Pleasanton",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Berkeley Catalyst Fund Management",
+      "contact_name": "Gregory D. Hitchan",
+      "email": "greg@trivalleyventures.com",
+      "city": "Pleasanton",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Tri-Valley Ventures",
+      "contact_name": "Ben Broad",
+      "email": "ben.broad@keterpoint.com",
+      "city": "Pleasanton",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Keter Point",
+      "contact_name": "John Smothers",
+      "email": "john@scribble.vc",
+      "city": "Port Washington",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Scribble Ventures",
+      "contact_name": "Suzanne Rombeau Fletcher",
+      "email": "suzanne@zelda.vc",
+      "city": "Portola Valley",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Zelda Ventures",
+      "contact_name": "Peter Herz",
+      "email": "peter@1cc.vc",
+      "city": "Portola Valley",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "1st Course Capital",
+      "contact_name": "Jeffrey M. Martinez",
+      "email": "jeffrey@diversityvc.co",
+      "city": "Redwood City",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Diversity Venture Capital",
+      "contact_name": "Kiran Shah",
+      "email": "kiran@mmc.us",
+      "city": "Redwood City",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Mercurius Media Capital",
+      "contact_name": "Ivan Kirigin",
+      "email": "ivan@tango.vc",
+      "city": "Redwood City",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Tango VC",
+      "contact_name": "Duke Rohlen",
+      "email": "drohlen@ajaxhealth.com",
+      "city": "Redwood City",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "TauTona Group",
+      "contact_name": "Ryan Smith",
+      "email": "ryans@qualtrics.com",
+      "city": "Redwood City",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "The Halo Fund",
+      "contact_name": "Warren Weiss",
+      "email": "wweiss@westwavecapital.com",
+      "city": "Redwood City",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "WestWave Capital",
+      "contact_name": "Mark Haney",
+      "email": "mark@growthfactory.us",
+      "city": "Redwood City",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Growth Factory (Rocklin)",
+      "contact_name": "Steven R. Mills",
+      "email": "smills@dcapartners.com",
+      "city": "Rocklin",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "DCA Capital Partners",
+      "contact_name": "Chris Kaster",
+      "email": "ckaster@cadencehcvc.com",
+      "city": "Rosevill",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Cadence Healthcare Ventures",
+      "contact_name": "Ken Grimes",
+      "email": "ken@blackangeltechfund.com",
+      "city": "Ross",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Black Star Fund",
+      "contact_name": "Ashley Bittner",
+      "email": "ashley@firework.vc",
+      "city": "Sacramento",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Firework Ventures",
+      "contact_name": "Ramy Adeeb",
+      "email": "ramy@1984.vc",
+      "city": "Sacramento",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "1984 Ventures",
+      "contact_name": "Lauren Schwartz",
+      "email": "lauren@20sales.vc",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "20SALES",
+      "contact_name": "Jonathan Abrams",
+      "email": "jabrams@8bitcapital.com",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "8-Bit Capital",
+      "contact_name": "April Underwood",
+      "email": "april@adverb.vc",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Adverb Ventures",
+      "contact_name": "Daniel Rumennik",
+      "email": "daniel@angellist.com",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "AiSprouts VC",
+      "contact_name": "Mei Z",
+      "email": "mei@alloyfund.com",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Alloy Fund",
+      "contact_name": "Howie Diamond",
+      "email": "howie@alphabridgevc.com",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Alpha Bridge Ventures",
+      "contact_name": "Carlos Ochoa",
+      "email": "carlos@alphaimpact8.com",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Alpha Impact 8",
+      "contact_name": "James Graham",
+      "email": "james@amberstone.com",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Amberstone",
+      "contact_name": "Greg Castle",
+      "email": "greg@anorak.vc",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Anorak Ventures",
+      "contact_name": "Alicia Cha Umphreys",
+      "email": "alicia@anthro.ventures",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Anthropocene Ventures",
+      "contact_name": "Paul Kirincich",
+      "email": "paul@greyscaleai.com",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "APA Venture Partners",
+      "contact_name": "Sohila Zadran",
+      "email": "s@archangel-x.com",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Astia",
+      "contact_name": "Robert Ness",
+      "email": "rob@asymmetry.vc",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Asymmetry Ventures",
+      "contact_name": "Pedro Sorrentino",
+      "email": "p@atman.vc",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Atman Capital Partners",
+      "contact_name": "Chris Leiter",
+      "email": "chris@atria.vc",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Atria Ventures",
+      "contact_name": "Chandler Guo",
+      "email": "chandler@au21.capital",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "AU21 Capital",
+      "contact_name": "Asli Gozoren",
+      "email": "asli@bandangels.com",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Blank Ventures",
+      "contact_name": "Benjamin Xavier Orthlieb",
+      "email": "ben@blue-moon.vc",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Blue Moon (San Francisco)",
+      "contact_name": "Daniel S. Von Kohorn",
+      "email": "dan@betafund.co",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Broom Ventures",
+      "contact_name": "Geoff Donaker",
+      "email": "gd@burst.vc",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Burst Capital",
+      "contact_name": "Monique Woodard",
+      "email": "monique.woodard@cake.vc",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Cake Ventures",
+      "contact_name": "Rex Salisbury",
+      "email": "rex@cambrian.vc",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Cambrian Fintech",
+      "contact_name": "Anand Iyer",
+      "email": "anand@canonical.cc",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Canonical Crypto",
+      "contact_name": "Ian Rountree",
+      "email": "ian@cantos.vc",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Cantos Ventures",
+      "contact_name": "Elia Infascelli",
+      "email": "elia@formacapital.vc",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Cashmere Fund",
+      "contact_name": "Jed Smith",
+      "email": "jed@catamountventures.com",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Catamount Ventures",
+      "contact_name": "Armindo Costa",
+      "email": "armindo@chamaeleon.vc",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Chamaeleon",
+      "contact_name": "Ben Stokes",
+      "email": "ben@chasingrainbows.vc",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Chasing Rainbows",
+      "contact_name": "Sarah Kunst",
+      "email": "sarah@cleocap.com",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Cleo Capital",
+      "contact_name": "Rajil Kapoor",
+      "email": "raj@climactic.vc",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Climactic",
+      "contact_name": "Karl D. Handelsman",
+      "email": "karl@codoncapital.com",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Codon Capital",
+      "contact_name": "William D. Clerico",
+      "email": "bill@convectivecapital.com",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Convective Capital",
+      "contact_name": "Julia Davourie",
+      "email": "julia@convergentvc.com",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Convergent Ventures (San Francisco)",
+      "contact_name": "Stu Smith",
+      "email": "s@coughdropcapital.com",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Coughdrop Capital",
+      "contact_name": "Patrick Eggen",
+      "email": "patrick@counterpart.vc",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Counterpart Ventures",
+      "contact_name": "Jessica Karr",
+      "email": "jessica@coyote.ventures",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Coyote Ventures",
+      "contact_name": "Noah Lichtenstein",
+      "email": "noah@crossovervc.com",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Crossover VC",
+      "contact_name": "Albion Calaj",
+      "email": "albi@dardania.vc",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Dardania Ventures",
+      "contact_name": "Tom Seo",
+      "email": "tom@dashfund.co",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Dash Fund",
+      "contact_name": "Fabien Dureuil",
+      "email": "fabien@davoa.capital",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Davoa Capital",
+      "contact_name": "Kyoko Watanabe",
+      "email": "kyokow@deftapartners.com",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "DEFTA Partners",
+      "contact_name": "Michael Scott",
+      "email": "michael@derive-ventures.com",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Derive Ventures",
+      "contact_name": "Enrique Allen",
+      "email": "enrique@designerfund.com",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Designer Fund",
+      "contact_name": "Stephen Deng",
+      "email": "stephen@dfslab.net",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "DFS Lab",
+      "contact_name": "John A. Roberts",
+      "email": "jay.roberts@digilife.fund",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Digilife",
+      "contact_name": "Patrick Chang",
+      "email": "patrick@dispersion.xyz",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Dispersion Capital",
+      "contact_name": "George Lambeth",
+      "email": "george@div.vc",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Divergence Ventures",
+      "contact_name": "Ankur Pansari",
+      "email": "ankur@divideby.com",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Divide by Zero",
+      "contact_name": "Andrew Krowne",
+      "email": "andrew@dolbyventures.com",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "DoubleRock",
+      "contact_name": "Stephanie Dorsey",
+      "email": "sdorsey@e2jdj.com",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "E Squared (San Francisco)",
+      "contact_name": "Mike Jackson",
+      "email": "mike@earthshot.vc",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Earthshot Ventures",
+      "contact_name": "Consuelo Valverde",
+      "email": "consuelo@svlatamcap.com",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Endurance28",
+      "contact_name": "Claire Liang",
+      "email": "claire@eudemian.vc",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Eudemian Ventures",
+      "contact_name": "Melissa Morano Aurigemma",
+      "email": "melissa@exceptionalcap.com",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Exceptional Capital",
+      "contact_name": "Kelly Graziadei",
+      "email": "kelly@f7ventures.com",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "F7 Ventures",
+      "contact_name": "Odile Roujol",
+      "email": "odile_roujol@fabcocreationstudio.com",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Fab Co-Creation Studio",
+      "contact_name": "John Vadim Komkov",
+      "email": "john@fathomcap.com",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Fathom Capital",
+      "contact_name": "Alex Harris",
+      "email": "alex@fiat.vc",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Fiat Ventures",
+      "contact_name": "Daniel Darling",
+      "email": "daniel@focal.vc",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Focal (VC)",
+      "contact_name": "Kim Kolt",
+      "email": "kim@baybridgevc.com",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "For Good Ventures",
+      "contact_name": "Matthew Brezina",
+      "email": "mbrezina@fordstreetvc.com",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Ford Street Ventures",
+      "contact_name": "Alice Zheng",
+      "email": "alice@foreground.vc",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Foreground Capital",
+      "contact_name": "Bobby Goodlatte",
+      "email": "bobby@formcapital.com",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Form Capital",
+      "contact_name": "Tytus Michalski",
+      "email": "tytus@fresco.vc",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Fresco Capital",
+      "contact_name": "Alexandre Scialom",
+      "email": "alex@fresh-ventures.com",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Fresh Ventures",
+      "contact_name": "Rachel Chalmers",
+      "email": "rachel@generationship.ai",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Generationship",
+      "contact_name": "Jenny Rooke",
+      "email": "jenny@genoavc.com",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Genoa Ventures",
+      "contact_name": "Robin Chan",
+      "email": "robin@goat.vc",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Goat Capital",
+      "contact_name": "Ronald Bouganim",
+      "email": "ron@govtechfund.com",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Goat Capital Management",
+      "contact_name": "Dan Schwartz",
+      "email": "dan@gramercyventures.com",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Govtech Fund",
+      "contact_name": "Shailesh Jayantilal Mehta",
+      "email": "shailesh@granitehill.net",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Gramercy Ventures",
+      "contact_name": "Lawrence P. Bancroft",
+      "email": "lawrence@greenbookventures.com",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Granite Hill Capital Partners",
+      "contact_name": "Vikram Lakhwara",
+      "email": "vikram@stakehouse.fund",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Green Book Ventures",
+      "contact_name": "Michael Walsh",
+      "email": "mikewalsh@greenvisorcapital.com",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Green Cow Venture Capital",
+      "contact_name": "Raymond S. Jackson",
+      "email": "rjackson@jmpg.com",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Green Visor Capital",
+      "contact_name": "Steven Jeffrey Taubman",
+      "email": "steve@highgearventures.com",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Harvest Capital Strategies",
+      "contact_name": "Max Webster",
+      "email": "max@hivemind.vc",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "HighGear Ventures",
+      "contact_name": "Alexandria Lafci",
+      "email": "alexandria@hometeam.vc",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Hivemind Ventures",
+      "contact_name": "Julie Castro Abrams",
+      "email": "julie@howwomeninvest.com",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Hometeam Ventures",
+      "contact_name": "Antonio Rallo",
+      "email": "trallo@id345.tech",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "How Women Invest",
+      "contact_name": "Robert Ethier",
+      "email": "robert@impactscience.vc",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "ID345",
+      "contact_name": "Douglas Kirkpatrick",
+      "email": "dkirkpatrick@eridan.io",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Impact Science Ventures",
+      "contact_name": "Julia Prakapovich",
+      "email": "julia@interfacefund.vc",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "InnerProduct Partners",
+      "contact_name": "Richard Chen",
+      "email": "richard.chen@flexhaul.ai",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Interface Fund",
+      "contact_name": "Ignacio Millán Vilela",
+      "email": "ignacio@junipero.vc",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Iterative Venture",
+      "contact_name": "Leandro Pisaroni Gerbaldo",
+      "email": "leandro@kaleiventures.com",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Junipero",
+      "contact_name": "Susan Choe",
+      "email": "susan@katalyst.vc",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Kalei Ventures",
+      "contact_name": "Regan Bozman",
+      "email": "regan@latticecap.co",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Katalyst Ventures",
+      "contact_name": "Helen Zelman Boniske",
+      "email": "helz@lemnoslabs.com",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Lattice Capital",
+      "contact_name": "Renée Alexiev",
+      "email": "renee@lionheart.vc",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Lemnos",
+      "contact_name": "Shayna Modarresi",
+      "email": "shayna@thebond.co",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Lionheart Ventures",
+      "contact_name": "Sam Yu",
+      "email": "syu@longvp.com",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Lodestar Ventures",
+      "contact_name": "Martin Gedalin",
+      "email": "martin@lumiacapital.com",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Long Venture Partners",
+      "contact_name": "Georgia Lu",
+      "email": "georgia.lu@magnet.ventures",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Lumia Capital",
+      "contact_name": "Kevin Laws",
+      "email": "kevin@angellist.com",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Magnet Ventures",
+      "contact_name": "Morgan Schwanke",
+      "email": "morgan@manaventures.vc",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Maiden Lane",
+      "contact_name": "Kevin Jiang",
+      "email": "kj@mangustacap.com",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Mana Ventures",
+      "contact_name": "Andrew Blachman",
+      "email": "andrew@marketplace.capital",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Mangusta Capital",
+      "contact_name": "Peter Hartigan",
+      "email": "pete@marketplace.fund",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Marketplace Capital",
+      "contact_name": "Corey Ford",
+      "email": "corey@matter.vc",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Marketplace Funds",
+      "contact_name": "Chris A. McCoy",
+      "email": "chris@storecloud.org",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Matter Ventures",
+      "contact_name": "Jahanzeb Sherwani",
+      "email": "jahanzeb.sherwani@mentors.fund",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "McCoy Ventures",
+      "contact_name": "Barry Winata",
+      "email": "barry@metagrove.vc",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Mentors Fund",
+      "contact_name": "Conrad Burke",
+      "email": "conrad.burke@metaventurepartners.com",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Metagrove Ventures",
+      "contact_name": "SC Moatti",
+      "email": "sc@mighty.capital",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "MetaVC Partners",
+      "contact_name": "Douglas Crawford",
+      "email": "dcrawford@epiodyne.com",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Mighty Capital",
+      "contact_name": "Marco Marinucci",
+      "email": "mmarinucci@mindthebridge.com",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Mission Bay Capital",
+      "contact_name": "Vishal Maini",
+      "email": "vishal@mythos.vc",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "MTS Fund",
+      "contact_name": "Maximilian von Poelnitz",
+      "email": "max@newterritoryventures.com",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Mythos Ventures",
+      "contact_name": "Gita Gupta",
+      "email": "gita@nextstepventures.org",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "New Territory Ventures",
+      "contact_name": "Danny L. Conway",
+      "email": "danny@niche-cap.com",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "NextStep Ventures",
+      "contact_name": "Alessandro Biral",
+      "email": "alessandro@novirian.com",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Niche Capital (San Francisco)",
+      "contact_name": "Austin Arensberg",
+      "email": "austin.arensberg@okta.com",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Novirian Capital",
+      "contact_name": "Betty Ma",
+      "email": "betty@opencoreventures.com",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Okta Ventures",
+      "contact_name": "Stewart Pond",
+      "email": "stewart@operator-stack.com",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Open Core Ventures",
+      "contact_name": "Don Ho",
+      "email": "don@orangedao.xyz",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Operator Stack",
+      "contact_name": "Abiodun Adisa",
+      "email": "abi@oriduncap.com",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Orange DAO",
+      "contact_name": "Joseph Jacks",
+      "email": "joseph@oss.capital",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Oridun Capital Management",
+      "contact_name": "Mohammad El-Bibany",
+      "email": "mo@pageone.vc",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "OSS Capital",
+      "contact_name": "Anthony Baldino",
+      "email": "anthony@pappycap.com",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Page One Ventures",
+      "contact_name": "Yi Han",
+      "email": "yi@pascalcap.com",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Pappy Capital",
+      "contact_name": "Chloe Breider",
+      "email": "chloe@phoenixclub.vc",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Pascal Capital",
+      "contact_name": "Jeremy Burton",
+      "email": "jb@platformstud.io",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Phoenix Investment Club (San Francisco)",
+      "contact_name": "Michael Clifton",
+      "email": "kip@presidioview.com",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Platform Studio",
+      "contact_name": "J.P. Keating",
+      "email": "jpkeating@prochain.vc",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Presidio View Capital",
+      "contact_name": "Matthew Lee",
+      "email": "matt@progression.fund",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "ProChain Ventures",
+      "contact_name": "Patri Friedman",
+      "email": "patri@zigfund.com",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Progression Fund",
+      "contact_name": "Daniel Lawrence Skaff",
+      "email": "dan@radicleimpact.com",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Pronomos Capital",
+      "contact_name": "Luka Tomljenovic",
+      "email": "luka@radius.capital",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Radicle Impact",
+      "contact_name": "Chenxi Wang",
+      "email": "chenxi@raincapital.vc",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Radius Capital",
+      "contact_name": "Jared Heyman",
+      "email": "jared@rebelfund.vc",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Rain Capital",
+      "contact_name": "Jukka Alanen",
+      "email": "jukka.alanen@rebellionvc.com",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Ranch Ventures",
+      "contact_name": "Ryan Falvey",
+      "email": "ryan@restive.com",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Rebel Fund",
+      "contact_name": "Nazar Yasin",
+      "email": "nazar@risecapital.com",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Rebellion Ventures",
+      "contact_name": "Arkady Kulik",
+      "email": "ak@rpv.global",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Restive Ventures",
+      "contact_name": "Hanson ChungChi Li",
+      "email": "hanson@saltpg.com",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Rise Capital",
+      "contact_name": "Jeffrey Schox",
+      "email": "jeff@schox.com",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "rpv",
+      "contact_name": "Matthew Gil Krisiloff",
+      "email": "matt@ovidresearch.com",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Salt Partners Group",
+      "contact_name": "Bryant T. Dun",
+      "email": "bryant.dun@scpventuresllc.com",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Schox Venture Capital",
+      "contact_name": "Tak Miyata",
+      "email": "tak.m@scrum.vc",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "SciFounders",
+      "contact_name": "Mahendra Ramsinghani",
+      "email": "mr@secureoctane.com",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "SCP Ventures",
+      "contact_name": "Kiva Dickinson",
+      "email": "kiva@selvaventures.com",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Scrum Ventures",
+      "contact_name": "Steven Lee",
+      "email": "steven@sevenstars.vc",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Secure Octane",
+      "contact_name": "Elizabeth Harrow",
+      "email": "liz@shaktivc.com",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Selva Ventures",
+      "contact_name": "Peter Craddock",
+      "email": "pcraddock@shorelineventures.com",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Seven Stars Ventures",
+      "contact_name": "Niv Dror",
+      "email": "niv@shrug.vc",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "SHAKTI",
+      "contact_name": "JJ MacLean",
+      "email": "jj@sdv.vc",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Shoreline Venture Management",
+      "contact_name": "Bill Cherman",
+      "email": "bill@solarecofund.com",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Shrug Capital",
+      "contact_name": "Babak Hamadani",
+      "email": "babak@specializedtypes.com",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Side Door Ventures",
+      "contact_name": "Sean Hoge",
+      "email": "sean@starship.vc",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Solar Eco Fund",
+      "contact_name": "Said Mia",
+      "email": "said@stormbreaker.vc",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Specialized Types",
+      "contact_name": "Zachary Abrams",
+      "email": "zabrams@stratimcapital.com",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Starship Ventures",
+      "contact_name": "Richard Jhang",
+      "email": "rj@stratminds.vc",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Stormbreaker Ventures",
+      "contact_name": "John Gleeson",
+      "email": "john@successvp.com",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Stratim Capital",
+      "contact_name": "William Hawthorne",
+      "email": "will@sugarcap.com",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Stratminds VC",
+      "contact_name": "Grayson Judge",
+      "email": "gj@supermooncapital.com",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Success Venture Partners",
+      "contact_name": "Paul Arnold",
+      "email": "paul@switch.vc",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Sugar Capital",
+      "contact_name": "Karine Sarkissian",
+      "email": "k.sarkissian@tamar.vc",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Supermoon Capital",
+      "contact_name": "Patrick Murphy",
+      "email": "pm@amaranthine.vc",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Switch Ventures",
+      "contact_name": "Steven Lurie",
+      "email": "steven@teambuilderventures.com",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Tamar Ventures (San Francisco)",
+      "contact_name": "Jeanne Sullivan",
+      "email": "jeanne@starvestpartners.com",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Tapestry VC",
+      "contact_name": "Lily Clayton",
+      "email": "lily@age1.com",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Team Builder Ventures",
+      "contact_name": "Eros Resmini",
+      "email": "eros@themini.fund",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "The Arcview Group",
+      "contact_name": "Tabreez Suleman Verjee",
+      "email": "tabreez.verjee@uprising.us",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "The Longevity Fund",
+      "contact_name": "Mike Sherbakov",
+      "email": "mike@veteran.fund",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "The Mini Fund",
+      "contact_name": "Jared Furtado",
+      "email": "jared@thursday.vc",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "The Space Between",
+      "contact_name": "Darren Hite",
+      "email": "dhite@thvc.co",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "The Veteran Fund",
+      "contact_name": "Chris Redlitz",
+      "email": "credlitz@transmediacapital.com",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Thursday Ventures",
+      "contact_name": "Salil S. Pitroda",
+      "email": "salil.pitroda@trinitylanecapital.com",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Transformational Healthcare",
+      "contact_name": "Reilly P. Brennan",
+      "email": "rpb@trucks.vc",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Transmedia Capital",
+      "contact_name": "Patrick Gallagher",
+      "email": "patrick@tuesday.vc",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Trinity Lane Capital",
+      "contact_name": "Tod M. Sacerdoti",
+      "email": "tod@flexcapital.com",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Trucks Venture Capital",
+      "contact_name": "Leshika Samarasinghe",
+      "email": "leshika@twineventures.com",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Tuesday Capital",
+      "contact_name": "Kent Goldman",
+      "email": "kent@upsidevc.com",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Turbo Ventures",
+      "contact_name": "Lyon Wong",
+      "email": "lyon@v0invest.com",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Twine Ventures",
+      "contact_name": "Jing Ge",
+      "email": "jge@vectors.earth",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Upside Partnership",
+      "contact_name": "Yigit Ihlamur",
+      "email": "yigit@vela.partners",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "V0 (San Francisco)",
+      "contact_name": "Joseph T. Hasselmann",
+      "email": "jh@verdure.vc",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Vectors Capital",
+      "contact_name": "Russell Sprole",
+      "email": "russell@virtaventures.co",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Vela Partners",
+      "contact_name": "Vijay Chattha",
+      "email": "vijayc@vsc.co",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Verdure Capital Management",
+      "contact_name": "Lee S. Ting",
+      "email": "l-ting@wrhambrecht.com",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Virta Ventures",
+      "contact_name": "Riley Newman",
+      "email": "riley@wavecapital.vc",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Visionnaire Ventures",
+      "contact_name": "Yuri Sagalov",
+      "email": "yuri@wayfinder.com",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "VSC Ventures",
+      "contact_name": "Dena Porter",
+      "email": "dena@winfunding.com",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "W.R. Hambrecht + Co",
+      "contact_name": "Eugene Weber",
+      "email": "eweber@webercapital.com",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Wave Capital",
+      "contact_name": "Daniel Lawrence Lurie",
+      "email": "daniel@wilmotventuresllc.com",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Wayfinder Ventures",
+      "contact_name": "Nichole Wischoff",
+      "email": "nichole@wischoff.com",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Webb Investment Network",
+      "contact_name": "Martina Welkhoff",
+      "email": "martina@wxrfund.com",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Weber Capital Management",
+      "contact_name": "Brom Quinn Rector",
+      "email": "brom@xeiavp.com",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Wilmot Ventures",
+      "contact_name": "Alexander Kobenko",
+      "email": "alexander@yellowrockets.vc",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Wischoff Ventures",
+      "contact_name": "Jyri Engestrom",
+      "email": "jyri@yes.vc",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "WXR Venture Fund",
+      "contact_name": "Abhinav Shashank",
+      "email": "abhinav@innovaccer.com",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "XEIA Venture Partners",
+      "contact_name": "Vivin Hegde",
+      "email": "vivin@zacuaventures.com",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "YellowRockets.vc",
+      "contact_name": "Zain Jaffer",
+      "email": "zain.jaffer@zain-ventures.com",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Yes VC",
+      "contact_name": "Pete Soderling",
+      "email": "pete@zeroprime.vc",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "z21 Ventures",
+      "contact_name": "Deborah Gbolade Mayowa",
+      "email": "deborah@aidiventures.com",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Zacua Ventures",
+      "contact_name": "Alok Nandan",
+      "email": "alok@firstrays.vc",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Zain Ventures",
+      "contact_name": "Kevin M. Landis",
+      "email": "kevin@firsthandcapital.com",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Zero Prime Ventures",
+      "contact_name": "Gavin Reardon",
+      "email": "gavin@kingsoncapital.com",
+      "city": "San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Aidi Ventures",
+      "contact_name": "Sabrina Paseman",
+      "email": "sabrina@omnivl.com",
+      "city": "San Jose",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "First Rays Venture Partners",
+      "contact_name": "Alex Liang",
+      "email": "alex.liang@orizaventures.com",
+      "city": "San Jose",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Firsthand Capital Management",
+      "contact_name": "Sandeep Sardana",
+      "email": "sandeep@bluepointeventures.com",
+      "city": "San Jose",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Kingson",
+      "contact_name": "Timothy D. Eades",
+      "email": "timothy@cybermentorfund.com",
+      "city": "San Jose",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Omni Ventures (San Jose)",
+      "contact_name": "Kathryn Fike",
+      "email": "katy@aging2.com",
+      "city": "San Jose",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Oriza Ventures",
+      "contact_name": "Bruno Bowden",
+      "email": "bruno@grepvc.com",
+      "city": "San Jose",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "BluePointe Ventures",
+      "contact_name": "Brian Jacobs",
+      "email": "brian@moai.vc",
+      "city": "San Mateo",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Cyber Mentor Fund",
+      "contact_name": "William W. Ericson",
+      "email": "bericson@wildcat.vc",
+      "city": "San Mateo",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Generator Ventures",
+      "contact_name": "William Timothy Draper",
+      "email": "billy@path.vc",
+      "city": "San Mateo",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Grep VC",
+      "contact_name": "Robert E. Patterson",
+      "email": "rpatterson@peninsulaventures.com",
+      "city": "San Mateo",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Moai Capital",
+      "contact_name": "Trish Costello",
+      "email": "trish@portfolia.com",
+      "city": "San Mateo",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Mohr Davidow Ventures",
+      "contact_name": "Patti McCandless",
+      "email": "patti@tefunds.com",
+      "city": "San Mateo",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Path Ventures",
+      "contact_name": "Maximillian C. Diez",
+      "email": "max@25v.co",
+      "city": "San Mateo",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Peninsula Ventures",
+      "contact_name": "Nathan Williams",
+      "email": "nate@unionlabs.com",
+      "city": "San Mateo",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Portfolia",
+      "contact_name": "Michael A. Mitgang",
+      "email": "mmitgang@wgdpartners.com",
+      "city": "San Mateo",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "The Entrepreneurs' Funds",
+      "contact_name": "Toussaint Bailey",
+      "email": "toussaint@upliftingcapital.com",
+      "city": "San Mateo",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Twenty Five Ventures",
+      "contact_name": "Yibo Shao",
+      "email": "bo@evolvevf.com",
+      "city": "San Mateo",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "UNION Labs VC",
+      "contact_name": "Sheetal Nariani",
+      "email": "sheetal@globalhealthimpactfund.com",
+      "city": "San Mateo",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "WGD Capital",
+      "contact_name": "Vaibhav Bhagwanrao Domkundwar",
+      "email": "vaibhav@bettercapital.vc",
+      "city": "San Mateo",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Wildcat Venture Partners",
+      "contact_name": "Morgan Slain",
+      "email": "mslain@scu.edu",
+      "city": "San Mateo",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Uplifting Capital",
+      "contact_name": "Ren Du",
+      "email": "rendu@heuristiccapital.com",
+      "city": "San Rafael",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Evolve Ventures",
+      "contact_name": "Ali Diallo",
+      "email": "diallo@aurioncapital.com",
+      "city": "San Rafael",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Global Health Impact Fund",
+      "contact_name": "Mohammed Nadeem",
+      "email": "nadeem@opulense.vc",
+      "city": "San Ramon",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Better Capital (California)",
+      "contact_name": "Morgan Slain",
+      "email": "morgan@santaclaraventures.com",
+      "city": "Santa Clara",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Heuristic Capital Partners",
+      "contact_name": "Anderson Theodore",
+      "email": "anderson@bktcap.com",
+      "city": "Santa Clara",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Novawave Capital",
+      "contact_name": "Matt Barron",
+      "email": "matt.barron@1212.vc",
+      "city": "Santa Clara",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Opulense",
+      "contact_name": "Josiah Hornblower",
+      "email": "josiah@bluepinepartners.com",
+      "city": "Santa Clara",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Santa Clara Ventures",
+      "contact_name": "Thomas L. Vorisek",
+      "email": "tvorisek@esven.us",
+      "city": "Santa Clara",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Santa Cruz Ventures",
+      "contact_name": "Peter D. Henig",
+      "email": "pete@greenhousecapital.net",
+      "city": "Santa Cruz",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "BKT Capital",
+      "contact_name": "Jaclyn Strife",
+      "email": "jaclyn@oceanic.us",
+      "city": "Santa Rosa",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "12/12 Ventures",
+      "contact_name": "Carlos S. Baradello",
+      "email": "carlos@alaya.capital",
+      "city": "Sausalito",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Blue Pine Partners",
+      "contact_name": "Garrett Paul",
+      "email": "garrett@seafrontcap.com",
+      "city": "Sausalito",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Esalen Ventures",
+      "contact_name": "Brant Meyer",
+      "email": "brant@trac.vc",
+      "city": "Sausalito",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "GHC Partners",
+      "contact_name": "Yajun Xu",
+      "email": "yajun@epimab.com",
+      "city": "Sausalito",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Oceanic Partners",
+      "contact_name": "Jeff Blank",
+      "email": "jblank@capitalmgroup.com",
+      "city": "Sausalito",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Sausalito Ventures",
+      "contact_name": "Michael J. Dubilier",
+      "email": "mdubilier@dubilier.com",
+      "city": "Sausalito",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Seafront Capital",
+      "contact_name": "Jared R. Kasner",
+      "email": "jared@ineffableventures.vc",
+      "city": "Sausalito",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "TRAC VC",
+      "contact_name": "Marie Rocha",
+      "email": "marie@realistventures.com",
+      "city": "Sonoma",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "ShangPharma Innovation",
+      "contact_name": "Maneesh Sagar",
+      "email": "maneesh@thynk.io",
+      "city": "South San Francisco",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Capital M Group",
+      "contact_name": "Thomas W. Jones",
+      "email": "twjones@twjcapital.com",
+      "city": "Stamford",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Dubilier & Company",
+      "contact_name": "Robert Lia",
+      "email": "rlia@wheelhouse360.com",
+      "city": "Stamford",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Ineffable Ventures",
+      "contact_name": "Ronjon Nag",
+      "email": "rnag@superbio.ai",
+      "city": "Stamford",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Realist Ventures",
+      "contact_name": "Yoshikazu Akinaga",
+      "email": "akinaga@docomoinnovations.com",
+      "city": "Stamford",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Thynk Ventures",
+      "contact_name": "Alex Chengming Ren",
+      "email": "alex@fellows.fund",
+      "city": "Stamford",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "TWJ Capital",
+      "contact_name": "Allan W. May",
+      "email": "allan.may@lifescienceangels.com",
+      "city": "Stamford",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Wheelhouse 360",
+      "contact_name": "Jack Feng",
+      "email": "jack@llamaventure.com",
+      "city": "Stamford",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "R42 Group",
+      "contact_name": "Rajan Raghavan",
+      "email": "rajan@truelark.com",
+      "city": "Stanfrod",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Docomo Innovations",
+      "contact_name": "Tim Hoag",
+      "email": "tim@artisanalv.com",
+      "city": "Sunnyvale",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Fellows Fund",
+      "contact_name": "Arif Fazal",
+      "email": "arif@blueberryventures.vc",
+      "city": "Sunnyvale",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Llama Venture",
+      "contact_name": "Michael Friedman",
+      "email": "mike@facetec.com",
+      "city": "Sunnyvale",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "The Fabric",
+      "contact_name": "Niv Harizman",
+      "email": "niv.harizman@tytocapital.com",
+      "city": "Sunnyvale",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Artisanal Ventures",
+      "contact_name": "Donald J. Rogers",
+      "email": "drogers@stridecapital.com",
+      "city": "Tiburon",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Blueberry Ventures",
+      "contact_name": "Dana Eli-Lorch",
+      "email": "dana@vesey.vc",
+      "city": "Tiburon",
+      "identified_category": "Tier 2 VC",
+      "missing_email": false,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "VujaDe Ventures",
+      "contact_name": "",
+      "email": "",
+      "city": "Union City",
+      "identified_category": "Tier 2 VC",
+      "missing_email": true,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Ignite Farm",
+      "contact_name": "",
+      "email": "",
+      "city": "Walnut Creek",
+      "identified_category": "Tier 2 VC",
+      "missing_email": true,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Riverside Management Group",
+      "contact_name": "",
+      "email": "",
+      "city": "Westport",
+      "identified_category": "Tier 2 VC",
+      "missing_email": true,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Stride Capital Group",
+      "contact_name": "",
+      "email": "",
+      "city": "Westport",
+      "identified_category": "Tier 2 VC",
+      "missing_email": true,
+      "potential_aman_overlap": false
+    },
+    {
+      "fund_name": "Vesey Ventures",
+      "contact_name": "",
+      "email": "",
+      "city": "Westport",
+      "identified_category": "Tier 2 VC",
+      "missing_email": true,
+      "potential_aman_overlap": false
+    }
+  ]
+}
