@@ -1,0 +1,128 @@
+import json
+import csv
+
+data = [
+    {"name": "Radical Ventures", "contact_info": "AIFounders@radical.vc", "category": "VC", "tier": "Tier 1", "notes": "Pre-Seed/Seed AI VC Toronto $1M-$25M checks"},
+    {"name": "Conviction Partners", "contact_info": "pranav@conviction.com", "category": "VC", "tier": "Tier 1", "notes": "Pre-Seed/Seed AI VC Sarah Guo $500k-$5M"},
+    {"name": "Air Street Capital", "contact_info": "nathan@airstreet.com", "category": "VC", "tier": "Tier 1", "notes": "Pre-Seed/Seed AI VC Nathan Benaich GP"},
+    {"name": "Sequoia Arc", "contact_info": "https://www.sequoiacap.com/arc/", "category": "Accelerator", "tier": "Tier 1", "notes": "Top-tier accelerator program for early-stage startups"},
+    {"name": "a16z Speedrun", "contact_info": "https://speedrun.a16z.com/", "category": "Accelerator", "tier": "Tier 1", "notes": "AI startup accelerator by Andreessen Horowitz"},
+    {"name": "General Catalyst", "contact_info": "https://www.generalcatalyst.com/lets-talk", "category": "VC", "tier": "Tier 1", "notes": "Seed/Series A AI multi-stage"},
+    {"name": "Bessemer Venture Partners", "contact_info": "https://www.bvp.com/contact", "category": "VC", "tier": "Tier 1", "notes": "Seed to growth stage investor"},
+    {"name": "Coatue", "contact_info": "https://www.coatue.com/contact", "category": "VC", "tier": "Tier 1", "notes": "Multi-stage tech investor"},
+    {"name": "Insight Partners", "contact_info": "https://www.insightpartners.com/contact/", "category": "VC", "tier": "Tier 1", "notes": "Growth/scale AI investor"},
+    {"name": "SignalFire", "contact_info": "https://signalfire.com/contact/", "category": "VC", "tier": "Tier 1", "notes": "Seed/Series A data-driven investor"},
+    {"name": "Lux Capital", "contact_info": "https://luxcapital.com/contact", "category": "VC", "tier": "Tier 1", "notes": "Deep tech/AI seed investor"},
+    {"name": "Pear VC", "contact_info": "https://www.pear.vc/founders", "category": "VC", "tier": "Tier 1", "notes": "Pre-seed/seed SF-based"},
+    {"name": "Neo", "contact_info": "https://neo.com/apply", "category": "VC", "tier": "Tier 1", "notes": "Ali Partovi seed AI investor"},
+    {"name": "South Park Commons", "contact_info": "https://www.southparkcommons.com/apply", "category": "Accelerator", "tier": "Tier 1", "notes": "Community/fund for technical exploration"},
+    {"name": "BoxGroup", "contact_info": "https://www.boxgroup.com/contact", "category": "VC", "tier": "Tier 1", "notes": "Pre-seed NYC investor"},
+    {"name": "Initialized Capital", "contact_info": "https://initialized.com/", "category": "VC", "tier": "Tier 1", "notes": "Pre-seed/seed Garry Tan co-founder"},
+    {"name": "Precursor Ventures", "contact_info": "https://precursorvc.com/startup/", "category": "VC", "tier": "Tier 1", "notes": "Pre-seed investor first check"},
+    {"name": "Afore Capital", "contact_info": "https://afore.vc/submit-your-startup", "category": "VC", "tier": "Tier 1", "notes": "Pre-seed before product-market fit"},
+    {"name": "Kindred Ventures", "contact_info": "https://kindredventures.com/", "category": "VC", "tier": "Tier 2", "notes": "Steve Jang seed investor"},
+    {"name": "Abstract Ventures", "contact_info": "https://www.abstractvc.com/", "category": "VC", "tier": "Tier 2", "notes": "Seed AI-focused investor"},
+    {"name": "Costanoa Ventures", "contact_info": "https://www.costanoavc.com/pitch-us", "category": "VC", "tier": "Tier 2", "notes": "Seed/Series A enterprise"},
+    {"name": "Point Nine Capital", "contact_info": "https://www.pointnine.com/apply", "category": "VC", "tier": "Tier 2", "notes": "SaaS/AI seed Berlin-based"},
+    {"name": "Amplify Partners", "contact_info": "https://www.amplifypartners.com/contact", "category": "VC", "tier": "Tier 2", "notes": "Dev tools/infra seed"},
+    {"name": "Basis Set Ventures", "contact_info": "https://basisset.ventures/", "category": "VC", "tier": "Tier 2", "notes": "AI/ML seed investor"},
+    {"name": "Greycroft", "contact_info": "https://www.greycroft.com/contact/", "category": "VC", "tier": "Tier 2", "notes": "Seed to growth NY/LA"},
+    {"name": "Work-Bench", "contact_info": "https://www.work-bench.com/pitch", "category": "VC", "tier": "Tier 2", "notes": "Enterprise/AI NYC seed"},
+    {"name": "Bowery Capital", "contact_info": "https://bowerycap.com/contact", "category": "VC", "tier": "Tier 2", "notes": "B2B SaaS seed NYC"},
+    {"name": "Notation Capital", "contact_info": "https://notation.vc/pitch", "category": "VC", "tier": "Tier 2", "notes": "Pre-seed NYC investor"},
+    {"name": "Uncork Capital", "contact_info": "https://uncork.vc/contact", "category": "VC", "tier": "Tier 2", "notes": "Seed investor SF"},
+    {"name": "Susa Ventures", "contact_info": "https://susaventures.com/", "category": "VC", "tier": "Tier 2", "notes": "Seed SF data-focused"},
+    {"name": "Fika Ventures", "contact_info": "https://fika.vc/", "category": "VC", "tier": "Tier 2", "notes": "Seed LA-based"},
+    {"name": "Soma Capital", "contact_info": "https://somacap.com/", "category": "VC", "tier": "Tier 2", "notes": "Seed investor YC-connected"},
+    {"name": "Wischoff Ventures", "contact_info": "https://www.wischoff.com/", "category": "VC", "tier": "Tier 2", "notes": "Pre-seed investor"},
+    {"name": "Focal VC", "contact_info": "https://www.focal.vc/", "category": "VC", "tier": "Tier 2", "notes": "Pre-seed/seed AI-focused"},
+    {"name": "Root Ventures", "contact_info": "https://root.vc/", "category": "VC", "tier": "Tier 2", "notes": "Technical founders seed"},
+    {"name": "Ubiquity Ventures", "contact_info": "https://ubiquity.vc/", "category": "VC", "tier": "Tier 2", "notes": "Micro-SaaS seed"},
+    {"name": "Betaworks Ventures", "contact_info": "https://betaworks.com/", "category": "VC", "tier": "Tier 2", "notes": "NYC pre-seed camps"},
+    {"name": "Collaborative Fund", "contact_info": "https://www.collaborativefund.com/", "category": "VC", "tier": "Tier 2", "notes": "Impact/tech seed"},
+    {"name": "Alumni Ventures", "contact_info": "https://av.vc/pitch", "category": "VC", "tier": "Tier 2", "notes": "Seed/Series A alumni network"},
+    {"name": "Gutter Capital", "contact_info": "https://guttercap.com/", "category": "VC", "tier": "Tier 2", "notes": "Pre-seed NYC"},
+    {"name": "Rebel Fund", "contact_info": "https://www.rebelfund.vc/", "category": "VC", "tier": "Tier 2", "notes": "YC-focused seed fund"},
+    {"name": "Pioneer Fund", "contact_info": "https://pioneer.app/", "category": "VC", "tier": "Tier 2", "notes": "Remote founders pre-seed"},
+    {"name": "Amino Capital", "contact_info": "https://www.aminocapital.com/", "category": "VC", "tier": "Tier 2", "notes": "AI/ML seed Palo Alto"},
+    {"name": "Tau Ventures", "contact_info": "https://www.tauventures.com/", "category": "VC", "tier": "Tier 2", "notes": "AI seed Silicon Valley"},
+    {"name": "Seedcamp", "contact_info": "https://seedcamp.com/apply/", "category": "VC", "tier": "Tier 2", "notes": "European seed investor"},
+    {"name": "Entrepreneur First", "contact_info": "https://www.joinef.com/apply/", "category": "Accelerator", "tier": "Tier 2", "notes": "Pre-team/idea stage global"},
+    {"name": "Transpose Platform", "contact_info": "https://transpose.vc/", "category": "VC", "tier": "Tier 3", "notes": "Deep tech seed"},
+    {"name": "Cortical Ventures", "contact_info": "https://cortical.vc/", "category": "VC", "tier": "Tier 3", "notes": "Neuroscience/AI seed"},
+    {"name": "Supercell VC", "contact_info": "https://supercell.com/en/game-funding/", "category": "VC", "tier": "Tier 3", "notes": "Gaming/AI investor"},
+    {"name": "1517 Fund", "contact_info": "https://www.1517fund.com/", "category": "VC", "tier": "Tier 3", "notes": "Young founders pre-college"},
+    {"name": "Rarebreed Ventures", "contact_info": "https://rarebreedventures.com/", "category": "VC", "tier": "Tier 3", "notes": "Underrepresented founders"},
+    {"name": "Gaingels", "contact_info": "https://gaingels.com/", "category": "Angel Syndicate", "tier": "Tier 3", "notes": "LGBTQ+ inclusive syndicate"},
+    {"name": "Elad Gil", "contact_info": "https://eladgil.com/", "category": "Angel", "tier": "Tier 1", "notes": "Solo angel AI infra $100k-$1M checks"},
+    {"name": "Naval Ravikant", "contact_info": "https://angel.co/p/naval", "category": "Angel", "tier": "Tier 1", "notes": "AngelList founder early-stage"},
+    {"name": "Gokul Rajaram", "contact_info": "https://twitter.com/gokulr", "category": "Angel", "tier": "Tier 1", "notes": "Ex-DoorDash/Google AI/consumer"},
+    {"name": "Cyan Banister", "contact_info": "https://twitter.com/CyanRanister", "category": "Angel", "tier": "Tier 1", "notes": "Early OpenAI backer"},
+    {"name": "Greg Isenberg", "contact_info": "https://gregisenberg.com/", "category": "Angel", "tier": "Tier 1", "notes": "Community/AI products"},
+    {"name": "Alexis Ohanian 776", "contact_info": "https://sevensevensix.com/", "category": "Angel", "tier": "Tier 1", "notes": "776 fund consumer/AI"},
+    {"name": "Jason Calacanis LAUNCH", "contact_info": "https://launch.co/", "category": "Angel Syndicate", "tier": "Tier 1", "notes": "LAUNCH fund/syndicate"},
+    {"name": "Harry Stebbings 20VC", "contact_info": "https://20vc.com/", "category": "Angel", "tier": "Tier 1", "notes": "20VC pre-seed/seed"},
+    {"name": "Ryan Hoover", "contact_info": "https://angel.co/p/rrhoover", "category": "Angel", "tier": "Tier 2", "notes": "Product Hunt founder"},
+    {"name": "Balaji Srinivasan", "contact_info": "https://balajis.com/", "category": "Angel", "tier": "Tier 2", "notes": "Frontier AI + crypto"},
+    {"name": "Ian Hogarth", "contact_info": "https://twitter.com/soundboy", "category": "Angel", "tier": "Tier 2", "notes": "AI safety/foundation models"},
+    {"name": "Edward Lando", "contact_info": "https://angel.co/p/edlando", "category": "Angel", "tier": "Tier 2", "notes": "500+ investments broad portfolio"},
+    {"name": "Ben Tossell", "contact_info": "https://twitter.com/bentossell", "category": "Angel", "tier": "Tier 2", "notes": "No-code/AI tools investor"},
+    {"name": "Lachy Groom", "contact_info": "https://lachygroom.com/", "category": "Angel", "tier": "Tier 2", "notes": "Stripe alumni fintech/AI"},
+    {"name": "AI Angels Fund", "contact_info": "https://www.aiangels.fund/", "category": "Angel Syndicate", "tier": "Tier 1", "notes": "AI-focused angel syndicate"},
+    {"name": "AngelList Syndicates", "contact_info": "https://angellist.com/syndicates", "category": "Angel Syndicate", "tier": "Tier 1", "notes": "Platform for AI syndicates"},
+    {"name": "Hustle Fund Angel Squad", "contact_info": "https://www.hustlefund.vc/squad", "category": "Angel Syndicate", "tier": "Tier 1", "notes": "2k+ angels co-investing alongside Hustle Fund"},
+    {"name": "Republic", "contact_info": "https://republic.com/", "category": "Angel Syndicate", "tier": "Tier 2", "notes": "Equity crowdfunding plus angels"},
+    {"name": "Emerson Collective", "contact_info": "https://www.emersoncollective.com/", "category": "Family Office", "tier": "Tier 1", "notes": "Laurene Powell Jobs impact/AI"},
+    {"name": "Obvious Ventures", "contact_info": "https://obvious.com/", "category": "Family Office", "tier": "Tier 1", "notes": "World positive tech/AI Ev Williams"},
+    {"name": "Schmidt Futures", "contact_info": "https://www.schmidtfutures.com/", "category": "Family Office", "tier": "Tier 1", "notes": "Eric Schmidt AI/science"},
+    {"name": "Bezos Expeditions", "contact_info": "https://www.bezosexpeditions.com/", "category": "Family Office", "tier": "Tier 1", "notes": "Jeff Bezos personal investment vehicle"},
+    {"name": "Bedrock Capital", "contact_info": "https://bedrockcap.com/", "category": "VC", "tier": "Tier 2", "notes": "Narrative-driven seed investor"},
+    {"name": "Chapter One Ventures", "contact_info": "https://chapterone.com/", "category": "VC", "tier": "Tier 2", "notes": "Consumer/AI seed"},
+    {"name": "Mulago Foundation", "contact_info": "https://mulago.org/", "category": "Family Office", "tier": "Tier 2", "notes": "Impact tech foundation"},
+    {"name": "Y Combinator", "contact_info": "https://apply.ycombinator.com/", "category": "Accelerator", "tier": "Tier 1", "notes": "Top accelerator $500k for 7%"},
+    {"name": "Antler", "contact_info": "https://www.antler.co/apply", "category": "Accelerator", "tier": "Tier 1", "notes": "Global early-stage company builder"},
+    {"name": "Techstars", "contact_info": "https://www.techstars.com/accelerators", "category": "Accelerator", "tier": "Tier 1", "notes": "Multiple vertical tracks"},
+    {"name": "Google for Startups Accelerator", "contact_info": "https://cloud.google.com/startup", "category": "Accelerator", "tier": "Tier 1", "notes": "AI/Cloud focus credits and mentorship"},
+    {"name": "Microsoft for Startups", "contact_info": "https://www.microsoft.com/en-us/startups", "category": "Accelerator", "tier": "Tier 1", "notes": "Azure credits and startup support"},
+    {"name": "NVIDIA Inception", "contact_info": "https://www.nvidia.com/en-us/startups/", "category": "Accelerator", "tier": "Tier 1", "notes": "AI/GPU startups program"},
+    {"name": "AWS Activate", "contact_info": "https://aws.amazon.com/activate/", "category": "Accelerator", "tier": "Tier 1", "notes": "AWS credits and support"},
+    {"name": "On Deck", "contact_info": "https://www.beondeck.com/", "category": "Accelerator", "tier": "Tier 2", "notes": "Fellowship and funding network"},
+    {"name": "Pioneer", "contact_info": "https://pioneer.app/", "category": "Accelerator", "tier": "Tier 2", "notes": "Remote founders tournament"},
+    {"name": "Alchemist Accelerator", "contact_info": "https://alchemistaccelerator.com/apply", "category": "Accelerator", "tier": "Tier 2", "notes": "Enterprise/B2B focus"},
+    {"name": "Berkeley SkyDeck", "contact_info": "https://skydeck.berkeley.edu/apply/", "category": "Accelerator", "tier": "Tier 2", "notes": "University-linked accelerator"},
+    {"name": "Founders Factory", "contact_info": "https://foundersfactory.com/apply/", "category": "Accelerator", "tier": "Tier 2", "notes": "Corporate-backed global"},
+    {"name": "Intel Ignite", "contact_info": "https://intelignite.com/", "category": "Accelerator", "tier": "Tier 2", "notes": "Deep tech/AI hardware"},
+    {"name": "OSV Open Source Ventures", "contact_info": "https://osv.vc/", "category": "Accelerator", "tier": "Tier 2", "notes": "Open source AI startups"},
+    {"name": "Pear VC Garage", "contact_info": "https://www.pear.vc/garage", "category": "Accelerator", "tier": "Tier 2", "notes": "Pre-seed program SF"},
+    {"name": "MassChallenge", "contact_info": "https://masschallenge.org/apply/", "category": "Accelerator", "tier": "Tier 3", "notes": "No-equity accelerator global"},
+    {"name": "Plug and Play Tech Center", "contact_info": "https://www.plugandplaytechcenter.com/join/", "category": "Accelerator", "tier": "Tier 3", "notes": "Corporate innovation platform"},
+    {"name": "HAX Accelerator", "contact_info": "https://hax.co/apply/", "category": "Accelerator", "tier": "Tier 3", "notes": "Hardware/AI deep tech"},
+    {"name": "Founders Institute", "contact_info": "https://fi.co/apply", "category": "Accelerator", "tier": "Tier 3", "notes": "Idea-stage global accelerator"},
+    {"name": "Salesforce Ventures", "contact_info": "https://www.salesforceventures.com/", "category": "VC", "tier": "Tier 2", "notes": "CRM/AI ecosystem investor"},
+    {"name": "Qualcomm Ventures", "contact_info": "https://www.qualcommventures.com/", "category": "VC", "tier": "Tier 2", "notes": "Mobile/AI/edge investor"},
+    {"name": "IBM Ventures", "contact_info": "https://www.ibm.com/ventures", "category": "VC", "tier": "Tier 2", "notes": "Enterprise AI investor"},
+    {"name": "Obvious Ventures", "contact_info": "https://obvious.com/contact", "category": "VC", "tier": "Tier 2", "notes": "Sustainability/AI founder-friendly"},
+    {"name": "Chapter One", "contact_info": "https://chapterone.com/pitch", "category": "VC", "tier": "Tier 2", "notes": "Consumer/AI first check"},
+    {"name": "Transpose Platform", "contact_info": "https://transpose.vc/apply", "category": "VC", "tier": "Tier 3", "notes": "Frontier tech deep tech"},
+    {"name": "OSV", "contact_info": "https://osv.vc/apply", "category": "Accelerator", "tier": "Tier 2", "notes": "Open source ventures accelerator"},
+]
+
+# Deduplicate by name (keep first occurrence)
+seen = set()
+unique = []
+for entry in data:
+    if entry["name"] not in seen:
+        seen.add(entry["name"])
+        unique.append(entry)
+
+# Save JSON
+with open("investors_and_accelerators.json", "w") as f:
+    json.dump(unique, f, indent=2)
+
+# Save CSV
+with open("investors_and_accelerators.csv", "w", newline="") as f:
+    writer = csv.DictWriter(f, fieldnames=["name", "contact_info", "category", "tier", "notes"])
+    writer.writeheader()
+    writer.writerows(unique)
+
+print(f"Saved {len(unique)} unique entries (deduplicated from {len(data)} total)")
